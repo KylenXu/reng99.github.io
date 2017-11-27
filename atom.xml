@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-27T13:27:00.937Z</updated>
+  <updated>2017-11-27T13:32:49.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://yoursite.com/2017/11/27/vue-attention/"/>
     <id>http://yoursite.com/2017/11/27/vue-attention/</id>
     <published>2017-11-27T13:10:52.000Z</published>
-    <updated>2017-11-27T13:27:00.937Z</updated>
+    <updated>2017-11-27T13:32:49.000Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/vuejs/attention/vue_attention_logo.jpg" alt="frontend/vuejs/attention/vue_attention_logo"></p><p>自己接触vuejs将近一年，在这段时间里面，一共用vuejs参与了公司的两个项目，本文是自己在使用vuejs开发过程中踩到的坑，特此记录下来的文章。嗯，希望对相关的技术爱好者有所帮助啦<del>（如果你知道我在讲什么的话）</del> 😊<br><a id="more"></a><br>因为笔者的时间和精力有限，不能一次性更新完，望见谅啦…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/vuejs/attention/vue_attention_logo.jpg" alt="frontend/vuejs/attention/vue_attention_logo"></p><p>自己接触vuejs将近一年，在这段时间里面，一共用vuejs参与了公司的两个项目，本文是自己在使用vuejs开发过程中踩到的坑，特此记录下来的文章。嗯，希望对相关的技术爱好者有所帮助啦<del>（如果你知道我在讲什么的话）</del> 😊</p><a id="more"></a><p>因为笔者的时间和精力有限，不能一次性更新完，望见谅啦…</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/vuejs/attention/vue_attention_logo.jpg&quot; alt=&quot;frontend/vuejs/attention/vue_attention_logo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;自己接触vuejs将近一年，在这段时间里面，一共用vuejs参与了公司的两个项目，本文是自己在使用vuejs开发过程中踩到的坑，特此记录下来的文章。嗯，希望对相关的技术爱好者有所帮助啦&lt;del&gt;（如果你知道我在讲什么的话）&lt;/del&gt; 😊&lt;br&gt;
+&lt;p&gt;自己接触vuejs将近一年，在这段时间里面，一共用vuejs参与了公司的两个项目，本文是自己在使用vuejs开发过程中踩到的坑，特此记录下来的文章。嗯，希望对相关的技术爱好者有所帮助啦&lt;del&gt;（如果你知道我在讲什么的话）&lt;/del&gt; 😊&lt;/p&gt;
     
     </summary>
     
