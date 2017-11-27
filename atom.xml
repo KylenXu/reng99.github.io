@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-26T16:12:43.848Z</updated>
+  <updated>2017-11-27T13:27:00.937Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vue2.0 踩坑记</title>
+    <link href="http://yoursite.com/2017/11/27/vue-attention/"/>
+    <id>http://yoursite.com/2017/11/27/vue-attention/</id>
+    <published>2017-11-27T13:10:52.000Z</published>
+    <updated>2017-11-27T13:27:00.937Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/vuejs/attention/vue_attention_logo.jpg" alt="frontend/vuejs/attention/vue_attention_logo"></p><p>自己接触vuejs将近一年，在这段时间里面，一共用vuejs参与了公司的两个项目，本文是自己在使用vuejs开发过程中踩到的坑，特此记录下来的文章。嗯，希望对相关的技术爱好者有所帮助啦<del>（如果你知道我在讲什么的话）</del> 😊<br><a id="more"></a><br>因为笔者的时间和精力有限，不能一次性更新完，望见谅啦…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/vuejs/attention/vue_attention_logo.jpg&quot; alt=&quot;frontend/vuejs/attention/vue_attention_logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;自己接触vuejs将近一年，在这段时间里面，一共用vuejs参与了公司的两个项目，本文是自己在使用vuejs开发过程中踩到的坑，特此记录下来的文章。嗯，希望对相关的技术爱好者有所帮助啦&lt;del&gt;（如果你知道我在讲什么的话）&lt;/del&gt; 😊&lt;br&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="vuejs" scheme="http://yoursite.com/tags/vuejs/"/>
+    
+      <category term="mvvm" scheme="http://yoursite.com/tags/mvvm/"/>
+    
+  </entry>
   
   <entry>
     <title>丹霞山旅游</title>
