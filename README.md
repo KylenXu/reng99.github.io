@@ -2,11 +2,7 @@
 
 > 前言
 
-Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全名庞嘉明)，是一个`web前端开发工程师`。本站是自己搭建的博客，至此，自己的博客从[新浪博客](http://blog.sina.com.cn/reng99)-->[博客园](http://www.cnblogs.com/reng/)-->[github](https://github.com/reng99)-->[Reng の 博客](https://reng99.github.io/)。
-
-在`关于我`页面，本来想偷懒将之前的`关于我`的软文复制过来使用，但是想了下，已经大半年没有更新`关于我`的内容了，得使用刚搭建的平台好好润色下才行。
-
-本人毕业于[广东工业大学](http://www.gdut.edu.cn/)计算机学院软件工程专业,在校期间获得过校优秀学生二三等奖学金，参加过非技术的校级比赛并获得二等将，担任过某会的主席，获得过若干部门称号和其他奖项。目前就职于[广州趣丸网络科技有限公司（简称：TT游戏）](https://www.52tt.com/)的研发中心部门，支持TT语音移动端前端业务等其他。
+Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全名庞嘉明)，是一个`web前端开发工程师`。本人毕业于[广东工业大学](http://www.gdut.edu.cn/)计算机学院软件工程专业,在校期间获得过校优秀学生二三等奖学金，参加过非技术的校级比赛并获得二等将，担任过某会的主席，获得过若干部门称号和其他奖项。目前就职于[广州趣丸网络科技有限公司（简称：TT游戏）](https://www.52tt.com/)的研发中心部门，支持TT语音移动端前端业务等其他。
 
 > 自我介绍
 
@@ -24,7 +20,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全
 
 - 左右铭 : 感恩的心做人，奋斗的心做事
 
-- 爱好 : 日常维护自己的github项目、编写blog、慢跑、影音书、旅行等
+- 爱好 : [日常维护自己的github项目](https://github.com/reng99)、编写blog、慢跑、影音书、旅行等
 
 > 具备技能
 
@@ -82,11 +78,13 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全
 
 哈哈哈 😄 ,啰里啰嗦润色了一下，<del>貌似跟之前的简历没啥区别的样子，难道变的是气质(幻想中ing)</del>如果看者觉得愚某还ok，请别吝啬你的橄榄枝哦--邮箱1837895991@qq.com(请别打电话，有可能编码的小灵感～)🙏 。
 
+对了，详细的关于我的介绍请看我[个人博客](http://reng99.cc/)❤️
+
 另外，如果看者想交个朋友的话，可以加个`微信朋友`呗！`加的时候请备注下您的姓名和地区`，谢谢啦！
 
-<img src="/asset/images/about/wechat.png" width="50%" height="50%">
+<img src="/asset/images/about/wechat.png" style="width: 50%;heihgt: 50%; text-align: center;">
 
 如果你觉得我的仓库还ok的话，那客官且留步，`微信`打赏下呗<del>(超厚脸皮的)</del>
 
-<img src="/images/wechatpay.png" width="50%" height="50%">
+<img src="/images/wechatpay.png" style="width: 50%;heihgt: 50%; text-align: center;">
 
