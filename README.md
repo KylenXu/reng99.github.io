@@ -1,8 +1,16 @@
+本博客效果如下：
+
+![myBlog_index](./asset/images/readme/myBlog_index.png)
+
+详情请点击[reng99.cc](http://reng99.cc/)
+
+下面为自己打个广告 😊
+
 ## 关于我
 
 > 前言
 
-Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全名庞嘉明)，是一个`web前端开发工程师`。本人毕业于[广东工业大学](http://www.gdut.edu.cn/)计算机学院软件工程专业,在校期间获得过校优秀学生二三等奖学金，参加过非技术的校级比赛并获得二等将，担任过某会的主席，获得过若干部门称号和其他奖项。目前就职于[广州趣丸网络科技有限公司（简称：TT游戏）](https://www.52tt.com/)的研发中心部门，支持TT语音移动端前端业务等其他。
+Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全名庞嘉明)，是一个`web前端开发工程师`。本人毕业于[广东工业大学](http://www.gdut.edu.cn/)计算机学院软件工程专业,在校期间获得过校优秀学生二三等奖学金，参加过非技术的校级比赛并获得二等将，担任过某会的主席，获得过若干部门称号和其他奖项。目前就职于[广州趣丸网络科技有限公司（简称：TT游戏）](https://www.52tt.com/)的研发中心部门，支持TT语音移动端前端业务等其他。
 
 > 自我介绍
 
@@ -16,11 +24,11 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全
 
 - 期望就职地点 : 广州(优先考虑)、深圳、杭州
 
-- 发展路径 : 向着端工程师进发中，偶尔看下ios移动开发等技术
+- 发展路径 : 向着端工程师进发中，偶尔看下ios移动开发等技术
 
 - 左右铭 : 感恩的心做人，奋斗的心做事
 
-- 爱好 : [日常维护自己的github项目](https://github.com/reng99)、编写blog、慢跑、影音书、旅行等
+- 爱好 : [日常维护自己的github项目](https://github.com/reng99)、编写blog、慢跑、影音书、旅行等
 
 > 具备技能
 
@@ -28,11 +36,11 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全
 
 2. 熟悉前后端分离开发，熟悉resful
 
-3. 掌握前端开发常用的框架库类，如jquery，能基于框架写扩展应用
+3. 掌握前端开发常用的框架库类，如jquery，能基于框架写扩展应用
 
 4. 有mvvm框架开发经验(vue),有移动h5开发经验
 
-5. 熟悉前端自动化[webpack](https://github.com/reng99/webpack)、[gulp](https://github.com/reng99/express_project)等，了解[nodejs](https://github.com/reng99/express_project)
+5. 熟悉前端自动化[webpack](https://github.com/reng99/webpack)、[gulp](https://github.com/reng99/express_project)等，了解[nodejs](https://github.com/reng99/express_project)
 
 6. 对css/javascript性能优化，能解决一定的浏览器兼容性问题
 
@@ -43,10 +51,10 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全
 > 工作经验 & 项目经验
 
 * 任职公司 : [广州趣丸网络科技有限公司（简称：TT游戏）](https://www.52tt.com/) 2016.12至今
-    * 所属部门 : 研发中心
+    * 所属部门 : 研发中心
     * 担任角色 : 前端开发工程师
         * 事件1 : 支持公司主要业务TT语音模块，可看[TT官网介绍](https://www.52tt.com/)2017.06至今
-        * 技术支持1 : webpack、html/5、css/3、javascript、vue框架等
+        * 技术支持1 : webpack、html/5、css/3、javascript、vue框架等
         * 事件2 : 参与开发手游交易平台m端，正在开发中，暂无链接(2017.11至今，前端三人)
         * 技术支持2 : webpack、html/5、css/3、javascript、jQuery、vue框架 等
         * 事件3 : 开发[淘手游网站pc端](https://www.taomitao.com/)(2017.07~2017.11.03版本一，前端自己挑起)
@@ -62,7 +70,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全
         * 技术支持 : html、css、javascript、库jQuery、php、snv、精灵图等
 
 
-> 自我评价 
+> 自我评价 
 
 - 负责 : 严以律己、积极进取
 
@@ -76,15 +84,21 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全
 
 > 后话
 
-哈哈哈 😄 ,啰里啰嗦润色了一下，<del>貌似跟之前的简历没啥区别的样子，难道变的是气质(幻想中ing)</del>如果看者觉得愚某还ok，请别吝啬你的橄榄枝哦--邮箱1837895991@qq.com(请别打电话，有可能编码的小灵感～)🙏 。
+哈哈哈 😄 ,啰里啰嗦润色了一下，<del>貌似跟之前的简历没啥区别的样子，难道变的是气质(幻想中ing)</del>如果看者觉得愚某还ok，请别吝啬你的橄榄枝哦--邮箱837895991@qq.com(请别打电话，有可能编码的小灵感走失哦～)🙏 。
 
 对了，详细的关于我的介绍请看我[个人博客](http://reng99.cc/)❤️
 
-另外，如果看者想交个朋友的话，可以加个`微信朋友`呗！`加的时候请备注下您的姓名和地区`，谢谢啦！
+另外，如果看者想交个朋友的话，可以加个`微信朋友`呗！`加的时候请备注下您的姓名和地区`，谢谢啦！
 
-<img src="/asset/images/about/wechat.png" style="width: 50%;heihgt: 50%; text-align: center;">
+<img src="/asset/images/about/wechat.png" style="width: 200px;heihgt: 200px;">
 
 如果你觉得我的仓库还ok的话，那客官且留步，`微信`打赏下呗<del>(超厚脸皮的)</del>
 
-<img src="/images/wechatpay.png" style="width: 50%;heihgt: 50%; text-align: center;">
+<img src="/images/wechatpay.png" style="width: 200px;heihgt: 200px;">
+
+**赞助名单**
+
+> 手动更新
+
+（暂时没有赞助）
 
