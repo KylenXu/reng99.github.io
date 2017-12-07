@@ -5,9 +5,9 @@
   <subtitle>If you don&#39;t think, then you shouldn&#39;t talk.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://reng99.cc/"/>
   <updated>2017-12-04T14:58:09.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://reng99.cc/</id>
   
   <author>
     <name>嘉明</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>桂林阳朔旅游</title>
-    <link href="http://yoursite.com/2017/12/04/tourist-guiLin-and-yangShuo/"/>
-    <id>http://yoursite.com/2017/12/04/tourist-guiLin-and-yangShuo/</id>
+    <link href="http://reng99.cc/2017/12/04/tourist-guiLin-and-yangShuo/"/>
+    <id>http://reng99.cc/2017/12/04/tourist-guiLin-and-yangShuo/</id>
     <published>2017-12-04T08:04:20.000Z</published>
     <updated>2017-12-04T14:58:09.000Z</updated>
     
@@ -37,17 +37,17 @@
     
     </summary>
     
-      <category term="诗和远方" scheme="http://yoursite.com/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+      <category term="诗和远方" scheme="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
     
     
-      <category term="旅游" scheme="http://yoursite.com/tags/%E6%97%85%E6%B8%B8/"/>
+      <category term="旅游" scheme="http://reng99.cc/tags/%E6%97%85%E6%B8%B8/"/>
     
   </entry>
   
   <entry>
     <title>vue2.0 踩坑记</title>
-    <link href="http://yoursite.com/2017/11/27/vue-attention/"/>
-    <id>http://yoursite.com/2017/11/27/vue-attention/</id>
+    <link href="http://reng99.cc/2017/11/27/vue-attention/"/>
+    <id>http://reng99.cc/2017/11/27/vue-attention/</id>
     <published>2017-11-27T13:10:52.000Z</published>
     <updated>2017-12-01T02:09:27.926Z</updated>
     
@@ -60,19 +60,19 @@
     
     </summary>
     
-      <category term="前端开发" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+      <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="vuejs" scheme="http://yoursite.com/tags/vuejs/"/>
+      <category term="vuejs" scheme="http://reng99.cc/tags/vuejs/"/>
     
-      <category term="mvvm" scheme="http://yoursite.com/tags/mvvm/"/>
+      <category term="mvvm" scheme="http://reng99.cc/tags/mvvm/"/>
     
   </entry>
   
   <entry>
     <title>丹霞山旅游</title>
-    <link href="http://yoursite.com/2017/11/26/tourist-danXia-mountain/"/>
-    <id>http://yoursite.com/2017/11/26/tourist-danXia-mountain/</id>
+    <link href="http://reng99.cc/2017/11/26/tourist-danXia-mountain/"/>
+    <id>http://reng99.cc/2017/11/26/tourist-danXia-mountain/</id>
     <published>2017-11-26T08:10:53.000Z</published>
     <updated>2017-11-26T16:12:43.848Z</updated>
     
@@ -85,10 +85,10 @@
     
     </summary>
     
-      <category term="诗和远方" scheme="http://yoursite.com/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+      <category term="诗和远方" scheme="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
     
     
-      <category term="旅游" scheme="http://yoursite.com/tags/%E6%97%85%E6%B8%B8/"/>
+      <category term="旅游" scheme="http://reng99.cc/tags/%E6%97%85%E6%B8%B8/"/>
     
   </entry>
   
