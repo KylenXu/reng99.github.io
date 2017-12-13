@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2017-12-13T01:59:49.345Z</updated>
+  <updated>2017-12-13T14:17:40.032Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git的学习汇总</title>
+    <link href="http://reng99.cc/2017/12/13/git-learning/"/>
+    <id>http://reng99.cc/2017/12/13/git-learning/</id>
+    <published>2017-12-13T14:12:02.000Z</published>
+    <updated>2017-12-13T14:17:40.032Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/tools/git/git-banner.jpg" alt="tools/git/git-banner"></p><p>git的学习之旅，预计2018年01月的月底完成此博文更新！</p><a id="more"></a><p style="color:red;text-align:center;">精力有限，未能一次性更新完，请见谅…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/tools/git/git-banner.jpg&quot; alt=&quot;tools/git/git-banner&quot;&gt;&lt;/p&gt;
+&lt;p&gt;git的学习之旅，预计2018年01月的月底完成此博文更新！&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="工具" scheme="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="git" scheme="http://reng99.cc/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>桂林阳朔旅游</title>
