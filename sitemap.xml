@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/about/index.html</loc>
+    
+    <lastmod>2017-12-17T10:54:06.402Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2017/12/13/git-learning/</loc>
     
-    <lastmod>2017-12-17T10:38:59.253Z</lastmod>
+    <lastmod>2017-12-17T10:42:51.606Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>http://reng99.cc/about/english-resume.html</loc>
     
     <lastmod>2017-11-29T14:09:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/about/index.html</loc>
-    
-    <lastmod>2017-11-28T14:02:38.000Z</lastmod>
     
   </url>
   

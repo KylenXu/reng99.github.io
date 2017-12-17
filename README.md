@@ -16,7 +16,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
 
 - 学历 : <del>广东某和尚庙</del>某工业大学计算机学院软件工程（本科）
 
-- 英文等级 : CET-6
+- 英文等级 : CET-6（具备一定的英文文献阅读能力）
 
 - 求职意向 : 前端开发工程师(入坑两年有余)
 
@@ -24,11 +24,11 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
 
 - 期望就职地点 : 广州(优先考虑)、深圳、杭州
 
-- 发展路径 : 向着端工程师进发中，偶尔看下ios移动开发等技术
+- 发展路径 : 向着端工程师进发中
 
 - 左右铭 : 感恩的心做人，奋斗的心做事
 
-- 爱好 : [日常维护自己的github项目](https://github.com/reng99)、编写blog、慢跑、影音书、旅行等
+- 爱好 : [日常维护自己的github项目](https://github.com/reng99)、[编写blog](http://reng99.cc/)、慢跑、影音书、[旅行](http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/)等
 
 > 具备技能
 
@@ -38,7 +38,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
 
 3. 掌握前端开发常用的框架库类，如jquery，能基于框架写扩展应用
 
-4. 有mvvm框架开发经验(vue),有移动h5开发经验
+4. 有mvvm框架开发经验([vue](https://github.com/reng99/webapp)),有[移动h5开发经验](https://github.com/reng99/webapp)
 
 5. 熟悉前端自动化[webpack](https://github.com/reng99/webpack)、[gulp](https://github.com/reng99/express_project)等，了解[nodejs](https://github.com/reng99/express_project)
 
@@ -55,7 +55,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
     * 担任角色 : 前端开发工程师
         * 事件1 : 支持公司主要业务TT语音模块，可看[TT官网介绍](https://www.52tt.com/)2017.06至今
         * 技术支持1 : webpack、html/5、css/3、javascript、vue框架等
-        * 事件2 : 参与开发手游交易平台m端，正在开发中，暂无链接(2017.11至今，前端三人)
+        * 事件2 : 参与开发手游交易平台m端，项目被停，无线上链接，可查看[github源代码和效果](https://github.com/reng99/webapp)(2017.11至2017.12.18，前端三人)
         * 技术支持2 : webpack、html/5、css/3、javascript、jQuery、vue框架 等
         * 事件3 : 开发[淘手游网站pc端](https://www.taomitao.com/)(2017.07~2017.11.03版本一，前端自己挑起)
         * 技术支持3 : webpack、gulp、html/5、css/3、javascript、jQuery库 等
@@ -84,9 +84,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
 
 > 后话
 
-哈哈哈 😄 ,啰里啰嗦润色了一下，<del>貌似跟之前的简历没啥区别的样子，难道变的是气质(幻想中ing)</del>如果看者觉得愚某还ok，请别吝啬你的橄榄枝哦--邮箱837895991@qq.com(请别打电话，有可能编码的小灵感走失哦～)🙏 。
-
-对了，详细的关于我的介绍请看我[个人博客](http://reng99.cc/)❤️
+如果看者觉得愚某还ok，请别吝啬你的橄榄枝哦--邮箱837895991@qq.com(请别打电话，有可能编码的小灵感走失哦～)🙏 。对了，详细的关于我的介绍请看我[个人博客](http://reng99.cc/)❤️
 
 另外，如果看者想交个朋友的话，可以加个`微信朋友`呗！`加的时候请备注下您的姓名和地区`，谢谢啦！
 
