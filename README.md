@@ -55,7 +55,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
     * 担任角色 : 前端开发工程师
         * 事件1 : 支持公司主要业务TT语音模块，可看[TT官网介绍](https://www.52tt.com/)2017.06至今
         * 技术支持1 : webpack、html/5、css/3、javascript、vue框架等
-        * 事件2 : 参与开发手游交易平台m端，项目被停，无线上链接，可查看[github源代码和效果](https://github.com/reng99/webapp)(2017.11至2017.12.18，前端三人)
+        * 事件2 : 参与开发手游交易平台m端，项目被停，无网上链接，可查看[github源代码和效果](https://github.com/reng99/webapp)(2017.11至2017.12.18，前端三人)
         * 技术支持2 : webpack、html/5、css/3、javascript、jQuery、vue框架 等
         * 事件3 : 开发[淘手游网站pc端](https://www.taomitao.com/)(2017.07~2017.11.03版本一，前端自己挑起)
         * 技术支持3 : webpack、gulp、html/5、css/3、javascript、jQuery库 等
