@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2017-12-23T05:12:24.913Z</updated>
+  <updated>2017-12-24T03:37:11.000Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第二届前端体验大会 -- 本固枝荣</title>
+    <link href="http://reng99.cc/2017/12/24/2ndTencent-frontend-meeting/"/>
+    <id>http://reng99.cc/2017/12/24/2ndTencent-frontend-meeting/</id>
+    <published>2017-12-24T03:31:10.000Z</published>
+    <updated>2017-12-24T03:37:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>占个坑，2017.12.24算起一个星期内完成本博文</p></blockquote><a id="more"></a><p>暂时没有更多内容…</p><p style="text-align:center;color:red;">精力有限，未能一次更新完，请见谅…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;占个坑，2017.12.24算起一个星期内完成本博文&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="技术交流" scheme="http://reng99.cc/categories/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81/"/>
+    
+    
+      <category term="会议" scheme="http://reng99.cc/tags/%E4%BC%9A%E8%AE%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>git的学习汇总</title>
