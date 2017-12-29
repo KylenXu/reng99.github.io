@@ -94,9 +94,4 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
 
 <img src="/images/wechatpay.png" style="width: 200px;heihgt: 200px;">
 
-**赞助名单**
-
-> 手动更新
-
-（暂时没有赞助）
 
