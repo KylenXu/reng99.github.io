@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2017-12-31T11:42:03.746Z</updated>
+  <updated>2018-01-01T11:40:38.024Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vuex 要点</title>
+    <link href="http://reng99.cc/2018/01/01/vuex/"/>
+    <id>http://reng99.cc/2018/01/01/vuex/</id>
+    <published>2018-01-01T11:37:35.000Z</published>
+    <updated>2018-01-01T11:40:38.024Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>暂未开始</p></blockquote><a id="more"></a><p style="color:red;text-align:center;">因为精力有限，未能一次更新完，望见谅…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;暂未开始&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="vuejs" scheme="http://reng99.cc/tags/vuejs/"/>
+    
+      <category term="mvvm" scheme="http://reng99.cc/tags/mvvm/"/>
+    
+  </entry>
   
   <entry>
     <title>第二届前端体验大会 -- 本固枝荣</title>
