@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-01-01T11:40:38.024Z</updated>
+  <updated>2018-01-01T12:15:56.572Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,13 +21,14 @@
     <link href="http://reng99.cc/2018/01/01/vuex/"/>
     <id>http://reng99.cc/2018/01/01/vuex/</id>
     <published>2018-01-01T11:37:35.000Z</published>
-    <updated>2018-01-01T11:40:38.024Z</updated>
+    <updated>2018-01-01T12:15:56.572Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>暂未开始</p></blockquote><a id="more"></a><p style="color:red;text-align:center;">因为精力有限，未能一次更新完，望见谅…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/vuejs/vuex/vuex_banner.jpg" alt="frontend/vuejs/vuex/vuex_banner"></p><blockquote><p>暂未开始</p></blockquote><a id="more"></a><p style="color:red;text-align:center;">因为精力有限，未能一次更新完，望见谅…</p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/vuejs/vuex/vuex_banner.jpg&quot; alt=&quot;frontend/vuejs/vuex/vuex_banner&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;暂未开始&lt;/p&gt;
 &lt;/blockquote&gt;
     
