@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-01-01T12:15:56.572Z</updated>
+  <updated>2018-01-03T14:05:01.874Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://reng99.cc/2018/01/01/vuex/"/>
     <id>http://reng99.cc/2018/01/01/vuex/</id>
     <published>2018-01-01T11:37:35.000Z</published>
-    <updated>2018-01-01T12:15:56.572Z</updated>
+    <updated>2018-01-03T14:05:01.874Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/vuejs/vuex/vuex_banner.jpg" alt="frontend/vuejs/vuex/vuex_banner"></p><blockquote><p>暂未开始</p></blockquote><a id="more"></a><p style="color:red;text-align:center;">因为精力有限，未能一次更新完，望见谅…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/vuejs/vuex/vuex_banner.jpg" alt="frontend/vuejs/vuex/vuex_banner"></p><blockquote><p>正在更新中</p></blockquote><a id="more"></a><h2 id="Vuex是什么"><a href="#Vuex是什么" class="headerlink" title="Vuex是什么"></a>Vuex是什么</h2><p>官网介绍:<code>Vuex是一个专门为Vuejs应用程序开发的状态管理模式</code>。（类似react的redux）。<code>Vuex</code>采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。Vuex在构建中大型的应用比较适用，小型的应用用组件之间的通信就可以了，小型应用用上<code>Vuex</code>就显得应用比较臃肿了。</p><h2 id="Vuex的安装"><a href="#Vuex的安装" class="headerlink" title="Vuex的安装"></a>Vuex的安装</h2><p>我是使用<code>npm</code>来辅助开发的，这里的安装我也只是说下通过<code>npm</code>安装<code>Vuex</code>。其他的安装方法，点戳<a href="https://vuex.vuejs.org/zh-cn/installation.html" target="_blank" rel="noopener">传送门</a>。</p><p>进入你项目的更目录，执行:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ npm install vuex --save </span><br><span class="line">或</span><br><span class="line">$ npm install vuex --save-dev</span><br></pre></td></tr></table></figure><p>然后在主入口的<code>javascript文件</code>中通过<code>use</code>进行引用，前提是你已经安装了<code>vue</code> :</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">import Vue from <span class="string">'vue'</span></span><br><span class="line">import Vuex from <span class="string">'vuex'</span></span><br><span class="line"></span><br><span class="line">Vue.use(Vuex)</span><br></pre></td></tr></table></figure><h2 id="核心概念"><a href="#核心概念" class="headerlink" title="核心概念"></a>核心概念</h2><blockquote><p>有待补充</p></blockquote><h3 id="State"><a href="#State" class="headerlink" title="State"></a>State</h3><h3 id="Getter"><a href="#Getter" class="headerlink" title="Getter"></a>Getter</h3><h3 id="Mutation"><a href="#Mutation" class="headerlink" title="Mutation"></a>Mutation</h3><h3 id="Action"><a href="#Action" class="headerlink" title="Action"></a>Action</h3><h3 id="Module"><a href="#Module" class="headerlink" title="Module"></a>Module</h3><h2 id="简单例子"><a href="#简单例子" class="headerlink" title="简单例子"></a>简单例子</h2><blockquote><p>有待补充</p></blockquote><p style="color:red;text-align:center;">因为精力有限，未能一次更新完，望见谅…</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/vuejs/vuex/vuex_banner.jpg&quot; alt=&quot;frontend/vuejs/vuex/vuex_banner&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;暂未开始&lt;/p&gt;
+&lt;p&gt;正在更新中&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
