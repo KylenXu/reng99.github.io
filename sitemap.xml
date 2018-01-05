@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/about/index.html</loc>
+    
+    <lastmod>2018-01-05T02:53:29.474Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2018/01/01/vuex/</loc>
     
-    <lastmod>2018-01-05T02:44:48.929Z</lastmod>
+    <lastmod>2018-01-05T02:49:02.592Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>http://reng99.cc/2017/12/24/2ndTencent-frontend-meeting/</loc>
     
     <lastmod>2017-12-31T11:42:03.746Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/about/index.html</loc>
-    
-    <lastmod>2017-12-25T12:38:59.639Z</lastmod>
     
   </url>
   

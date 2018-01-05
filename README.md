@@ -88,7 +88,7 @@ Hello，见者好:blush:!我是嘉明(<del>哈哈@～@，套近乎。</del>全�
 
 另外，如果看者想交个朋友的话，可以加个`微信朋友`呗！`加的时候请备注下您的姓名和地区`，谢谢啦！
 
-<img src="/asset/images/about/wechat.png" style="width: 200px;heihgt: 200px;">
+<img src="/asset/images/about/wechat.jpeg">
 
 如果你觉得我的仓库还ok的话，那客官且留步，`微信`打赏下呗<del>(超厚脸皮的)</del>
 
