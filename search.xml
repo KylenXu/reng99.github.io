@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[webpack从零构建vue项目]]></title>
     <url>%2F2018%2F01%2F16%2Fwebpack-build-vue-project%2F</url>
-    <content type="text"><![CDATA[看官别急 工作之余更新 预计2018.3.30前完成本博文更新 可文末留言跟新建议或打赏 精力有限，未能一次性更新完,忘见谅…]]></content>
+    <content type="text"><![CDATA[看官别急 工作之余更新 预计2018.3.30前完成本博文更新 可文末留言更新建议或打赏 看者可以到自己几个月前搭建的一个小的webapck项目github仓库下简单看搭建过程啦，如果你在webpack项目中留颗星星那就更好了。 当然本项目不会像之前的那么简单啦，敬请期待… 精力有限，未能一次性更新完,忘见谅…]]></content>
       <categories>
         <category>前端开发</category>
       </categories>
