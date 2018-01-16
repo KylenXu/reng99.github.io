@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-01-15T13:50:46.070Z</updated>
+  <updated>2018-01-16T03:30:16.000Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>webpack从零构建vue项目</title>
+    <link href="http://reng99.cc/2018/01/16/webpack-build-vue-project/"/>
+    <id>http://reng99.cc/2018/01/16/webpack-build-vue-project/</id>
+    <published>2018-01-16T03:20:37.000Z</published>
+    <updated>2018-01-16T03:30:16.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>看官别急  工作之余更新  预计2018.3.30前完成本博文更新 可文末留言跟新建议或打赏</p></blockquote><a id="more"></a><p style="color:red;text-align:center;">精力有限，未能一次性更新完,忘见谅…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;看官别急  工作之余更新  预计2018.3.30前完成本博文更新 可文末留言跟新建议或打赏&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="vuejs" scheme="http://reng99.cc/tags/vuejs/"/>
+    
+      <category term="mvvm - webpack" scheme="http://reng99.cc/tags/mvvm-webpack/"/>
+    
+  </entry>
   
   <entry>
     <title>vuex 要点</title>
