@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
+    <lastmod>2018-01-20T03:12:02.965Z</lastmod>
+    <data>
+        <display>
+        <title>vue2.0 踩坑记</title>
+        <pubTime>2017-11-27T13:10:52.000Z</pubTime>
+        
+        <tag>vuejs</tag>
+         
+        <tag>mvvm</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
     <lastmod>2018-01-20T02:27:53.969Z</lastmod>
     <data>
@@ -102,28 +124,6 @@
            
              
               <breadCrumb title="诗和远方" url="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
-    <lastmod>2017-12-01T02:09:27.926Z</lastmod>
-    <data>
-        <display>
-        <title>vue2.0 踩坑记</title>
-        <pubTime>2017-11-27T13:10:52.000Z</pubTime>
-        
-        <tag>vuejs</tag>
-         
-        <tag>mvvm</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
           
         </display>
     </data>

@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
+    
+    <lastmod>2018-01-20T03:12:02.965Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
     
     <lastmod>2018-01-20T02:27:53.969Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://reng99.cc/2017/12/04/tourist-guiLin-and-yangShuo/</loc>
     
     <lastmod>2017-12-13T01:59:49.345Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
-    
-    <lastmod>2017-12-01T02:09:27.926Z</lastmod>
     
   </url>
   
