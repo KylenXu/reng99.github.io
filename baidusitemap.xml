@@ -4,16 +4,16 @@
 
     
   <url>
-    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
-    <lastmod>2018-01-20T03:12:02.965Z</lastmod>
+    <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
+    <lastmod>2018-01-21T11:41:59.721Z</lastmod>
     <data>
         <display>
-        <title>vue2.0 踩坑记</title>
-        <pubTime>2017-11-27T13:10:52.000Z</pubTime>
+        <title>webpack从零构建vue项目</title>
+        <pubTime>2018-01-16T03:20:37.000Z</pubTime>
         
         <tag>vuejs</tag>
          
-        <tag>mvvm</tag>
+        <tag>mvvm - webpack</tag>
          
          
            
@@ -26,16 +26,16 @@
 
     
   <url>
-    <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
-    <lastmod>2018-01-20T02:27:53.969Z</lastmod>
+    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
+    <lastmod>2018-01-20T03:12:02.965Z</lastmod>
     <data>
         <display>
-        <title>webpack从零构建vue项目</title>
-        <pubTime>2018-01-16T03:20:37.000Z</pubTime>
+        <title>vue2.0 踩坑记</title>
+        <pubTime>2017-11-27T13:10:52.000Z</pubTime>
         
         <tag>vuejs</tag>
          
-        <tag>mvvm - webpack</tag>
+        <tag>mvvm</tag>
          
          
            

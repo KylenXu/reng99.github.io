@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[webpack从零构建vue项目]]></title>
     <url>%2F2018%2F01%2F16%2Fwebpack-build-vue-project%2F</url>
-    <content type="text"><![CDATA[看官别急 工作之余更新 预计2018.3.30前完成本博文更新 可文末留言更新建议或打赏 看者可以到自己几个月前搭建的一个小的webapck项目github仓库下简单看搭建过程啦，如果你在webpack项目中留颗星星那就更好了。 当然本项目不会像之前的那么简单啦，敬请期待… 参考webpack官网 精力有限，未能一次性更新完,忘见谅…]]></content>
+    <content type="text"><![CDATA[看官别急 工作之余更新 预计2018.3.30前完成本博文更新 可文末留言更新建议或打赏 看者可以到自己几个月前搭建的一个小的webapck项目github仓库下简单看搭建过程啦，如果你在webpack项目中留颗星星那就更好了。 当然本项目不会像之前的那么简单啦，敬请期待… webpack是什么官方描述如下： At its core, webpack is a static module bundler for modern JavaScript applications. When webpack processes your application, it recursively builds a dependency graph that includes every module your application needs, then packages all of those modules into one or more bundles. 鄙人的翻译如下： webpack的核心是现代javascript程序的静态模块打包工具。当webpack处理你的应用的时候，它会根据你的应用需要的模块递归的描绘出一个依赖图，然后打包这些模块到指定的一个或者多个文件中。 翻译不妥，还请指出。 参考webpack官网 vue官网 精力有限，未能一次性更新完,忘见谅…]]></content>
       <categories>
         <category>前端开发</category>
       </categories>
