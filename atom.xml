@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-01-25T12:35:55.052Z</updated>
+  <updated>2018-02-21T15:33:57.693Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的2018计划</title>
+    <link href="http://reng99.cc/2018/02/21/my-2018-plans/"/>
+    <id>http://reng99.cc/2018/02/21/my-2018-plans/</id>
+    <published>2018-02-21T15:01:49.000Z</published>
+    <updated>2018-02-21T15:33:57.693Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/life/plans/2018/plan_logo.jpg" alt="life/plans/2018/plan_logo.jpg"></p><blockquote><p>有待补充</p></blockquote><a id="more"></a><p>有待更新…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/life/plans/2018/plan_logo.jpg&quot; alt=&quot;life/plans/2018/plan_logo.jpg&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有待补充&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="诗和远方" scheme="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="计划" scheme="http://reng99.cc/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
   
   <entry>
     <title>webpack从零构建vue项目</title>
