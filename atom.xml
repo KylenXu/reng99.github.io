@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-02-21T16:28:11.254Z</updated>
+  <updated>2018-03-01T09:24:05.103Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>重读《JavaScript高级程序设计》</title>
+    <link href="http://reng99.cc/2018/03/01/javascript-high-level/"/>
+    <id>http://reng99.cc/2018/03/01/javascript-high-level/</id>
+    <published>2018-03-01T09:09:19.000Z</published>
+    <updated>2018-03-01T09:24:05.103Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/life/learn/read/javascript/javascript_high_level.jpg" alt="life/learn/read/javascript/javascript_high_level"></p><p>最近自己在休假，打算闭门几天将《JavaScript高级程序设计》(第3版)这本良心教材读完。进入前端领域两年多，记录下重读这本教材的“硬”知识点 😊 。另外自己准备离职，哪位伯乐推荐下前端岗位过来下，感激不尽，个人线上简历请猛戳<a href="http://reng99.cc/about/">这里</a></p><a id="more"></a><p>更多。。。</p><p style="color:red;text-align:center;">精力有限，未能一次性更新完,忘见谅…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/life/learn/read/javascript/javascript_high_level.jpg&quot; alt=&quot;life/learn/read/javascript/javascript_high_level&quot;&gt;&lt;/p&gt;
+&lt;p&gt;最近自己在休假，打算闭门几天将《JavaScript高级程序设计》(第3版)这本良心教材读完。进入前端领域两年多，记录下重读这本教材的“硬”知识点 😊 。另外自己准备离职，哪位伯乐推荐下前端岗位过来下，感激不尽，个人线上简历请猛戳&lt;a href=&quot;http://reng99.cc/about/&quot;&gt;这里&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="读书" scheme="http://reng99.cc/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="javascript" scheme="http://reng99.cc/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>我的2018计划</title>
