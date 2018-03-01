@@ -3,6 +3,30 @@
 
 
     
+  <url>
+    <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
+    <lastmod>2018-03-01T09:29:46.994Z</lastmod>
+    <data>
+        <display>
+        <title>webpack从零构建vue项目</title>
+        <pubTime>2018-01-16T03:20:37.000Z</pubTime>
+        
+        <tag>vuejs</tag>
+         
+        <tag>mvvm</tag>
+         
+        <tag>webpack</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
@@ -40,28 +64,6 @@
            
              
               <breadCrumb title="诗和远方" url="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
-    <lastmod>2018-01-25T12:35:55.052Z</lastmod>
-    <data>
-        <display>
-        <title>webpack从零构建vue项目</title>
-        <pubTime>2018-01-16T03:20:37.000Z</pubTime>
-        
-        <tag>vuejs</tag>
-         
-        <tag>mvvm - webpack</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
           
         </display>
     </data>
