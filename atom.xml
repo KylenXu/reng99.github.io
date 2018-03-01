@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-03-01T09:24:05.103Z</updated>
+  <updated>2018-03-01T09:51:42.776Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://reng99.cc/2018/03/01/javascript-high-level/"/>
     <id>http://reng99.cc/2018/03/01/javascript-high-level/</id>
     <published>2018-03-01T09:09:19.000Z</published>
-    <updated>2018-03-01T09:24:05.103Z</updated>
+    <updated>2018-03-01T09:51:42.776Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/life/learn/read/javascript/javascript_high_level.jpg" alt="life/learn/read/javascript/javascript_high_level"></p><p>最近自己在休假，打算闭门几天将《JavaScript高级程序设计》(第3版)这本良心教材读完。进入前端领域两年多，记录下重读这本教材的“硬”知识点 😊 。另外自己准备离职，哪位伯乐推荐下前端岗位过来下，感激不尽，个人线上简历请猛戳<a href="http://reng99.cc/about/">这里</a></p><a id="more"></a><p>更多。。。</p><p style="color:red;text-align:center;">精力有限，未能一次性更新完,忘见谅…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/life/learn/read/javascript/javascript_high_level.jpg" alt="life/learn/read/javascript/javascript_high_level"></p><p>最近自己在休假，打算闭门几天将《JavaScript高级程序设计》(第3版)这本良心教材读完。进入前端领域两年多，记录下重读这本教材的“硬”知识点 😊 。另外自己准备离职，哪位伯乐推荐下前端岗位过来下，感激不尽，个人线上简历请猛戳<a href="http://reng99.cc/about/">这里</a></p><a id="more"></a><h2 id="没有重载"><a href="#没有重载" class="headerlink" title="没有重载"></a>没有重载</h2><p>ECMAScript 函数不能像传统意义上那样实现重载。而在其他语言（如Java）中，可以为一个函数编写两个定义，只要这两个定义的签名（接受的参数类型和数量）不同即可[p66]。ECMAScript的类型是松散形的，没有签名，所以是没有重载的。</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">load</span>(<span class="params">num</span>)</span>&#123;</span><br><span class="line"><span class="keyword">return</span> num + <span class="number">100</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">load</span>(<span class="params">num,name</span>)</span>&#123;</span><br><span class="line"><span class="keyword">return</span> num + <span class="number">200</span>;</span><br><span class="line">&#125;</span><br><span class="line"><span class="keyword">var</span> result = load(<span class="number">100</span>); <span class="comment">// 200</span></span><br><span class="line"># 后面的函数声明覆盖掉前面的函数声明</span><br></pre></td></tr></table></figure><h2 id="基本的数据类型"><a href="#基本的数据类型" class="headerlink" title="基本的数据类型"></a>基本的数据类型</h2><p><strong>基本类型值</strong>指的是简单的数据段，而<strong>引用类型</strong>指那些可能由多个值构成的对象[p68]。这里指出来的基本的数据类型是说的es5的哈：<code>Undefined</code>,<code>Null</code>,<code>Boolean</code>,<code>Number</code>和<code>String</code>。</p><h2 id="传递参数"><a href="#传递参数" class="headerlink" title="传递参数"></a>传递参数</h2><p style="color:red;text-align:center;">精力有限，未能一次性更新完,忘见谅…</p>]]></content>
     
     <summary type="html">
     

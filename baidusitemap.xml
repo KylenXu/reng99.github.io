@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
+    <lastmod>2018-03-01T09:51:42.776Z</lastmod>
+    <data>
+        <display>
+        <title>重读《JavaScript高级程序设计》</title>
+        <pubTime>2018-03-01T09:09:19.000Z</pubTime>
+        
+        <tag>读书</tag>
+         
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
     <lastmod>2018-03-01T09:29:46.994Z</lastmod>
     <data>
@@ -27,28 +49,6 @@
     </url>
 
     
-    
-  <url>
-    <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
-    <lastmod>2018-03-01T09:24:05.103Z</lastmod>
-    <data>
-        <display>
-        <title>重读《JavaScript高级程序设计》</title>
-        <pubTime>2018-03-01T09:09:19.000Z</pubTime>
-        
-        <tag>读书</tag>
-         
-        <tag>javascript</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://reng99.cc/2018/02/21/my-2018-plans/</loc>
