@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/about/index.html</loc>
+    
+    <lastmod>2018-03-02T03:00:41.401Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
     
     <lastmod>2018-03-02T02:47:53.008Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
     
     <lastmod>2018-03-01T09:29:46.994Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/about/index.html</loc>
-    
-    <lastmod>2018-03-01T09:24:35.000Z</lastmod>
     
   </url>
   
