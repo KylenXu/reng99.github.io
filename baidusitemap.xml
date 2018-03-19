@@ -3,6 +3,30 @@
 
 
     
+  <url>
+    <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
+    <lastmod>2018-03-19T14:54:24.433Z</lastmod>
+    <data>
+        <display>
+        <title>webpack从零构建vue项目</title>
+        <pubTime>2018-01-16T03:20:37.000Z</pubTime>
+        
+        <tag>vuejs</tag>
+         
+        <tag>mvvm</tag>
+         
+        <tag>webpack</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://reng99.cc/2018/03/11/summerize-http/</loc>
@@ -55,30 +79,6 @@
         <pubTime>2018-03-06T08:28:09.000Z</pubTime>
         
         <tag>读书</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
-    <lastmod>2018-03-01T09:29:46.994Z</lastmod>
-    <data>
-        <display>
-        <title>webpack从零构建vue项目</title>
-        <pubTime>2018-01-16T03:20:37.000Z</pubTime>
-        
-        <tag>vuejs</tag>
-         
-        <tag>mvvm</tag>
-         
-        <tag>webpack</tag>
          
          
            
