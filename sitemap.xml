@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/2018/03/11/summerize-http/</loc>
+    
+    <lastmod>2018-03-20T14:16:52.644Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2018/01/16/webpack-build-vue-project/</loc>
     
     <lastmod>2018-03-19T14:54:24.433Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://reng99.cc/about/index.html</loc>
     
     <lastmod>2018-03-14T14:58:25.261Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/2018/03/11/summerize-http/</loc>
-    
-    <lastmod>2018-03-13T13:12:23.202Z</lastmod>
     
   </url>
   
