@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/03/11/summerize-http/</loc>
+    <lastmod>2018-03-27T13:18:55.593Z</lastmod>
+    <data>
+        <display>
+        <title>小结http</title>
+        <pubTime>2018-03-11T05:25:22.000Z</pubTime>
+        
+        <tag>http</tag>
+         
+         
+           
+             
+              <breadCrumb title="网络" url="http://reng99.cc/categories/%E7%BD%91%E7%BB%9C/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
     <lastmod>2018-03-26T13:56:52.820Z</lastmod>
     <data>
@@ -19,26 +39,6 @@
            
              
               <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/03/11/summerize-http/</loc>
-    <lastmod>2018-03-25T09:52:09.966Z</lastmod>
-    <data>
-        <display>
-        <title>小结http</title>
-        <pubTime>2018-03-11T05:25:22.000Z</pubTime>
-        
-        <tag>http</tag>
-         
-         
-           
-             
-              <breadCrumb title="网络" url="http://reng99.cc/categories/%E7%BD%91%E7%BB%9C/"/>
           
         </display>
     </data>
