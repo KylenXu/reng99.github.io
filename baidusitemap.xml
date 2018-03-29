@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://reng99.cc/2017/12/13/git-learning/</loc>
+    <lastmod>2018-03-29T15:04:52.328Z</lastmod>
+    <data>
+        <display>
+        <title>git的学习汇总</title>
+        <pubTime>2017-12-13T14:12:02.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="工具" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/03/11/summerize-http/</loc>
     <lastmod>2018-03-27T13:18:55.593Z</lastmod>
     <data>
@@ -148,26 +168,6 @@
            
              
               <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2017/12/13/git-learning/</loc>
-    <lastmod>2018-01-02T12:22:00.599Z</lastmod>
-    <data>
-        <display>
-        <title>git的学习汇总</title>
-        <pubTime>2017-12-13T14:12:02.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-         
-           
-             
-              <breadCrumb title="工具" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
