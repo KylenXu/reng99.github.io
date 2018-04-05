@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[深入理解原型对象和原型链]]></title>
     <url>%2F2018%2F04%2F05%2Fprototype-object-chain-md%2F</url>
-    <content type="text"><![CDATA[见者清明节安康啦！原型对象和原型链在前端的工作中虽然不怎么显式的使用到，但是你会隐式的使用了，比如使用的jquery，vue等啦。在进入正题的时候，我们还是需要明白什么是__proto__，prototype等知识点，这篇博文大多是问答形式进行… 个人时间有限，未能一次性更新完，请见谅…]]></content>
+    <content type="text"><![CDATA[见者清明节安康啦！原型对象和原型链在前端的工作中虽然不怎么显式的使用到，但是你会隐式的使用了，比如使用的jquery，vue等啦。在进入正题的时候，我们还是需要明白什么是__proto__，prototype等知识点，这篇博文大多是问答形式进行… 问答环节1.Javascript创建对象的方式？ 也许你会说出工厂模式、构造函数模式、原型模式、组合使用构造函数和原型模式、动态原型模式、寄生构造函数模式和稳妥构造函数这些，但是我们可以对他们进行以下归类–属于函数创建对象。 我们可以简单的将创建对象的方式分为三种：函数创建对象、字面量创建、Object创建。当然，也可以只是分成两类：函数创建对象和字面量创建对象，因为new Object()中的Object是本身就是一个函数。 1Object // f Object()&#123;&#125; 2.什么是prototype? function(注意是function哦)定义的对象有一个prototype属性，prototype属性又指向了一个prototype对象，注意prototype属性与prototype对象是两个不同的东西，要注意区别。用伪代码表示如下： 123var function&#123; prototype: prototype&#123;&#125; // function的prototype属性指向prototype对象&#125; 注意上面说的是function里面才会有prototype属性，而我们new出来的对象里面是没有的哦。 12345678910111213141516171819# functionfunction Fun(name)&#123; this.name = name;&#125;Fun.prototype // &#123;constructor:f&#125;var fun = new Fun('嘉明');fun.prototype // undefined# ObjectObject.prototype // &#123;constructor:f,__defineGetter__:f,...&#125;var object = new Object();object.prototype // undefined# 字面量，字面量可以理解没有prototype啦var jack = &#123;&#125;;jack.prototype // undefined 实验环节个人时间有限，未能一次性更新完，请见谅…]]></content>
       <categories>
         <category>前端开发</category>
       </categories>
