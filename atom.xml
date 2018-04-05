@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-04-03T14:12:59.182Z</updated>
+  <updated>2018-04-05T08:05:19.624Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>深入理解原型对象和原型链</title>
+    <link href="http://reng99.cc/2018/04/05/prototype-object-chain-md/"/>
+    <id>http://reng99.cc/2018/04/05/prototype-object-chain-md/</id>
+    <published>2018-04-05T07:52:31.000Z</published>
+    <updated>2018-04-05T08:05:19.624Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/javascript/prototype_object_chain.jpg" alt="frontend/javascript/prototype_object_chain"></p><p>见者清明节安康啦！原型对象和原型链在前端的工作中虽然不怎么显式的使用到，但是你会隐式的使用了，比如使用的jquery，vue等啦。在进入正题的时候，我们还是需要明白什么是<code>__proto__</code>，<code>prototype</code>等知识点，这篇博文大多是问答形式进行…</p><a id="more"></a><p style="color:red;text-align:center;font-size:12px;">个人时间有限，未能一次性更新完，请见谅…</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/javascript/prototype_object_chain.jpg&quot; alt=&quot;frontend/javascript/prototype_object_chain&quot;&gt;&lt;/p&gt;
+&lt;p&gt;见者清明节安康啦！原型对象和原型链在前端的工作中虽然不怎么显式的使用到，但是你会隐式的使用了，比如使用的jquery，vue等啦。在进入正题的时候，我们还是需要明白什么是&lt;code&gt;__proto__&lt;/code&gt;，&lt;code&gt;prototype&lt;/code&gt;等知识点，这篇博文大多是问答形式进行…&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="javascript" scheme="http://reng99.cc/tags/javascript/"/>
+    
+  </entry>
   
   <entry>
     <title>小结http</title>
