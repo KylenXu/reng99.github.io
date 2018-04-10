@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/2017/12/13/git-learning/</loc>
+    
+    <lastmod>2018-04-10T05:45:23.060Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2018/04/05/prototype-object-chain-md/</loc>
     
     <lastmod>2018-04-09T14:18:31.964Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://reng99.cc/2018/03/11/summerize-http/</loc>
     
     <lastmod>2018-04-03T14:12:59.182Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/2017/12/13/git-learning/</loc>
-    
-    <lastmod>2018-03-29T15:04:52.328Z</lastmod>
     
   </url>
   

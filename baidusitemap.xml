@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://reng99.cc/2017/12/13/git-learning/</loc>
+    <lastmod>2018-04-10T05:45:23.060Z</lastmod>
+    <data>
+        <display>
+        <title>git的学习汇总</title>
+        <pubTime>2017-12-13T14:12:02.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="工具" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/04/05/prototype-object-chain-md/</loc>
     <lastmod>2018-04-09T14:18:31.964Z</lastmod>
     <data>
@@ -38,26 +58,6 @@
            
              
               <breadCrumb title="网络" url="http://reng99.cc/categories/%E7%BD%91%E7%BB%9C/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2017/12/13/git-learning/</loc>
-    <lastmod>2018-03-29T15:04:52.328Z</lastmod>
-    <data>
-        <display>
-        <title>git的学习汇总</title>
-        <pubTime>2017-12-13T14:12:02.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-         
-           
-             
-              <breadCrumb title="工具" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
           
         </display>
     </data>
