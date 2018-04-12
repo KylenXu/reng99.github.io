@@ -5,12 +5,34 @@
     
   <url>
     <loc>http://reng99.cc/2018/04/05/prototype-object-chain-md/</loc>
-    <lastmod>2018-04-12T04:36:22.862Z</lastmod>
+    <lastmod>2018-04-12T07:36:11.686Z</lastmod>
     <data>
         <display>
         <title>深入理解原型对象和原型链</title>
         <pubTime>2018-04-05T07:52:31.000Z</pubTime>
         
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
+    <lastmod>2018-04-12T07:14:03.938Z</lastmod>
+    <data>
+        <display>
+        <title>重读《JavaScript高级程序设计》</title>
+        <pubTime>2018-03-01T09:09:19.000Z</pubTime>
+        
+        <tag>读书</tag>
+         
         <tag>javascript</tag>
          
          
@@ -119,28 +141,6 @@
         <tag>mvvm</tag>
          
         <tag>webpack</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
-    <lastmod>2018-03-13T11:55:42.657Z</lastmod>
-    <data>
-        <display>
-        <title>重读《JavaScript高级程序设计》</title>
-        <pubTime>2018-03-01T09:09:19.000Z</pubTime>
-        
-        <tag>javascript</tag>
-         
-        <tag>读书</tag>
          
          
            
