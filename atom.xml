@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-04-14T14:44:49.665Z</updated>
+  <updated>2018-04-15T15:23:09.163Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://reng99.cc/2018/04/13/frontend-security/"/>
     <id>http://reng99.cc/2018/04/13/frontend-security/</id>
     <published>2018-04-12T17:09:42.000Z</published>
-    <updated>2018-04-14T14:44:49.665Z</updated>
+    <updated>2018-04-15T15:23:09.163Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/javascript/frontend_security_banner.jpg" alt="frontend/javascript/frontend_security_banner"></p><blockquote><p>前端安全</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/javascript/frontend_security_banner.jpg" alt="frontend/javascript/frontend_security_banner"></p><p>前端安全的汇集，欢迎各种留言补充👏</p><a id="more"></a><h2 id="跨站脚本攻击"><a href="#跨站脚本攻击" class="headerlink" title="跨站脚本攻击"></a>跨站脚本攻击</h2><p>XSS是跨站脚本攻击(Cross-Site Scripting)的简称。XSS这类安全问题发生的本质原因在于，浏览器错误的将攻击者提供的用户输入数据当做JavaScript脚本给执行了。</p><p style="text-align:center;color:red;font-weigt:bolder;">精力有限，未能一次更新完，请见谅！如有好的点子，很欢迎留言补充啊</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/javascript/frontend_security_banner.jpg&quot; alt=&quot;frontend/javascript/frontend_security_b
-      
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/javascript/frontend_security_banner.jpg&quot; alt=&quot;frontend/javascript/frontend_security_banner&quot;&gt;&lt;/p&gt;
+&lt;p&gt;前端安全的汇集，欢迎各种留言补充👏&lt;/p&gt;
     
     </summary>
     
