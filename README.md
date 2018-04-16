@@ -14,7 +14,7 @@
 |序号|相关博文|博文编写日期|
 |:-----:|:-----:|:-----:|
 |013|[前端安全](http://reng99.cc/2018/04/13/frontend-security/)|2018.04.13|
-|012|[深入理解原型对象和原型链]((http://reng99.cc/2018/04/05/prototype-object-chain-md/))|2018.04.05|
+|012|[深入理解原型对象和原型链](http://reng99.cc/2018/04/05/prototype-object-chain-md/)|2018.04.05|
 |011|[小结http](http://reng99.cc/2018/03/11/summerize-http/)|2018.03.11|
 |010|[前端优化：雅虎35条原则](http://reng99.cc/2018/03/06/frontend-optimization/)|2018.03.06|
 |009|[重读《JavaScript高级程序设计》](http://reng99.cc/2018/03/01/javascript-high-level/)|2018.03.01|
@@ -45,10 +45,11 @@
 |微博|[链接](https://weibo.com/reng99)|
 |github|[链接](https://github.com/reng99)|
 |掘金|[链接](https://juejin.im/user/5a00493f5188252c224d6475)|
+|邮箱|1837895991@qq.com|
 
 **后话**
 
-喜欢的话就点又上角的小星星star一下了，欢迎提issue或者解决issue。
+喜欢的话就点右上角的小星星star一下了，欢迎提issue或者解决issue。
 
 
 
