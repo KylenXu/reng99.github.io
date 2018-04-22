@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-04-20T15:47:18.777Z</updated>
+  <updated>2018-04-22T13:55:54.182Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://reng99.cc/2018/04/13/frontend-security/"/>
     <id>http://reng99.cc/2018/04/13/frontend-security/</id>
     <published>2018-04-12T17:09:42.000Z</published>
-    <updated>2018-04-20T15:47:18.777Z</updated>
+    <updated>2018-04-22T13:55:54.182Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/javascript/frontend_security_banner.jpg" alt="frontend/javascript/frontend_security_banner"></p><p>前端安全的汇集，欢迎留言补充👏</p><a id="more"></a><h2 id="跨站脚本攻击"><a href="#跨站脚本攻击" class="headerlink" title="跨站脚本攻击"></a>跨站脚本攻击</h2><p>XSS是跨站脚本攻击(Cross-Site Scripting)的简称。XSS这类安全问题发生的本质原因在于，浏览器错误的将攻击者提供的用户输入数据当做JavaScript脚本给执行了。</p><h3 id="攻击方式"><a href="#攻击方式" class="headerlink" title="攻击方式"></a>攻击方式</h3><p><strong>反射型 ： </strong> 发出请求时，XSS代码出现在URL中，作为输入提交到服务器端，服务器端解析后响应，XSS代码随响应内容一起传回给浏览器，最后浏览器解析执行XSS代码。这个过程像一次反射，故叫反射型XSS。</p><p style="text-align:center;color:red;font-weigt:bolder;">精力有限，未能一次更新完，请见谅！如有好的点子，很欢迎留言补充啊</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/javascript/frontend_security_banner.jpg" alt="frontend/javascript/frontend_security_banner"></p><p>前端安全的汇集，欢迎留言补充👏</p><a id="more"></a><h2 id="跨站脚本攻击"><a href="#跨站脚本攻击" class="headerlink" title="跨站脚本攻击"></a>跨站脚本攻击</h2><p>XSS是跨站脚本攻击(Cross-Site Scripting)的简称。XSS这类安全问题发生的本质原因在于，浏览器错误的将攻击者提供的用户输入数据当做JavaScript脚本给执行了。</p><h3 id="xss的原理"><a href="#xss的原理" class="headerlink" title="xss的原理"></a>xss的原理</h3><ul><li>攻击者对含有漏洞的服务器发起xss攻击（注入js代码）</li><li>诱使受害者打开收到攻击的服务器url</li><li>受害者在web浏览器中打开url，恶意脚本执行</li></ul><h3 id="攻击方式"><a href="#攻击方式" class="headerlink" title="攻击方式"></a>攻击方式</h3><p><strong>反射型 ： </strong> 发出请求时，XSS代码出现在URL中，作为输入提交到服务器端，服务器端解析后响应，XSS代码随响应内容一起传回给浏览器，最后浏览器解析执行XSS代码。这个过程像一次反射，故叫反射型XSS。</p><p style="text-align:center;color:red;font-weigt:bolder;">精力有限，未能一次更新完，请见谅！如有好的点子，很欢迎留言补充啊</p>]]></content>
     
     <summary type="html">
     
