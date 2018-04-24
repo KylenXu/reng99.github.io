@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
+    <lastmod>2018-04-24T05:03:19.065Z</lastmod>
+    <data>
+        <display>
+        <title>vue2.0 踩坑记</title>
+        <pubTime>2017-11-27T13:10:52.000Z</pubTime>
+        
+        <tag>vuejs</tag>
+         
+        <tag>mvvm</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/04/13/frontend-security/</loc>
     <lastmod>2018-04-22T15:59:20.542Z</lastmod>
     <data>
@@ -100,28 +122,6 @@
            
              
               <breadCrumb title="网络" url="http://reng99.cc/categories/%E7%BD%91%E7%BB%9C/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
-    <lastmod>2018-03-26T13:56:52.820Z</lastmod>
-    <data>
-        <display>
-        <title>vue2.0 踩坑记</title>
-        <pubTime>2017-11-27T13:10:52.000Z</pubTime>
-        
-        <tag>vuejs</tag>
-         
-        <tag>mvvm</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
           
         </display>
     </data>
