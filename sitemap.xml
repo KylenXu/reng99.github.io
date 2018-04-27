@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/about/index.html</loc>
+    
+    <lastmod>2018-04-27T07:09:32.306Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2017/11/27/vue-attention/</loc>
     
     <lastmod>2018-04-25T14:37:48.502Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://reng99.cc/2018/04/13/frontend-security/</loc>
     
     <lastmod>2018-04-22T15:59:20.542Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/about/index.html</loc>
-    
-    <lastmod>2018-04-21T13:35:22.840Z</lastmod>
     
   </url>
   
