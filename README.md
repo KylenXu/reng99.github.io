@@ -1,13 +1,8 @@
-[![GitHub stars](https://img.shields.io/github/stars/reng99/reng99.github.io.svg?style=flat-square)](https://github.com/reng99/reng99.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/reng99/reng99.github.io.svg?style=flat-square)](https://github.com/reng99/reng99.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/reng99/reng99.github.io.svg?style=flat-square)](https://github.com/reng99/reng99.github.io/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat-square)](https://github.com/reng99/reng99.github.io)
-
 **嘉明的博客**
 
 本仓库是存放静态博文，业余的时间进行更新，所写的文章不仅仅包括自己理解的技术文哈，毕竟还有诗和远方嘛。
 
-> 博客目录
+### 博客目录
 
 |序号|分类|相关博文|博文编写日期|完成情况|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -26,7 +21,7 @@
 |002|前端开发|[vue2.0 踩坑记](http://reng99.cc/2017/11/27/vue-attention/)|2017.11.27|看情况更新|
 |001|诗和远方|[丹霞山旅游](http://reng99.cc/2017/11/26/tourist-danXia-mountain/)|2017.11.26|100%|
 
-> 关于我
+### 关于我
 
 在搭建好的博客中，添加了简短的`关于我的介绍`，详情请点击下面的链接进入查看：
 
@@ -34,7 +29,7 @@
 |:-----:|:-----:|
 |[中文介绍](http://reng99.cc/about/)|[resume](http://reng99.cc/about/english-resume.html)|
 
-> 相关的社交
+### 相关的社交
 
 在互联网时代，没有几个社交的账号都不好意思说自己是会it的厨子了，欢迎加微信好友【加时请备注：姓名-地区-职业】
 
@@ -46,9 +41,9 @@
 |掘金|[链接](https://juejin.im/user/5a00493f5188252c224d6475)|
 |邮箱|1837895991@qq.com|
 
-> 后话
+### 后话
 
-喜欢的话就点右上角的小星星star一下了，欢迎提issue或者解决issue。
+喜欢的话就点右上角的小星星star一下了，欢迎在issue中评论，评论会自动同步到[http://reng99.cc/](http://reng99.cc/)相关的博文下。
 
 
 
