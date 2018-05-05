@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-05-02T13:29:03.716Z</updated>
+  <updated>2018-05-05T15:11:25.577Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://reng99.cc/2018/05/01/tcp-three-handshake-four-bandge/"/>
     <id>http://reng99.cc/2018/05/01/tcp-three-handshake-four-bandge/</id>
     <published>2018-05-01T10:36:17.000Z</published>
-    <updated>2018-05-02T13:29:03.716Z</updated>
+    <updated>2018-05-05T15:11:25.577Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/network/tcp/handshake3_bandge4.jpg" alt="network/tcp/handshake3_bandge4.jpg"></p><p>UDP（用户数据报协议）和TCP（传输控制协议）都是传输层的协议，但是前者无连接，不安全，而后者提供面向链接的服务，倡导网络安全的环境下，还是推荐使用TCP。然而，TCP里面的知识点够啃一丢丢的时间了，这里只是解析TCP的三次握手和四次挥手啦😊</p><a id="more"></a><p style="color: red;text-align:center;">精力有限，未能一次更新完，亲见谅…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/network/tcp/handshake3_bandge4.jpg" alt="network/tcp/handshake3_bandge4.jpg"></p><p>UDP（用户数据报协议）和TCP（传输控制协议）都是传输层的协议，但是前者无连接，不安全，而后者提供面向链接的服务，倡导网络安全的环境下，还是推荐使用TCP。然而，TCP里面的知识点够啃一丢丢的时间了，这里只是解析TCP的三次握手和四次挥手啦😊</p><a id="more"></a><h2 id="TCP报文段的首部格式"><a href="#TCP报文段的首部格式" class="headerlink" title="TCP报文段的首部格式"></a>TCP报文段的首部格式</h2><p>TCP报文段首部的前20个字节是固定的，后面的有4n字节是根据需要而增加的选项（n是整数）。因此TCP首部的最小长度是20字节。见下图：</p><p style="color: red;text-align:center;">精力有限，未能一次更新完，亲见谅…</p>]]></content>
     
     <summary type="html">
     
