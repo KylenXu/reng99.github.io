@@ -6,7 +6,7 @@
 
 |序号|分类|相关博文|博文编写日期|完成情况|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|014|网络|[TCP的三次握手和四次挥手](http://reng99.cc/2018/05/01/tcp-three-handshake-four-bandge/)|2018.05.01|1%|
+|014|网络|[TCP的三次握手和四次挥手](http://reng99.cc/2018/05/01/tcp-three-handshake-four-bandge/)|2018.05.01|45%|
 |013|前端开发|[前端安全](http://reng99.cc/2018/04/13/frontend-security/)|2018.04.13|10%|
 |012|前端开发|[深入理解原型对象和原型链](http://reng99.cc/2018/04/05/prototype-object-chain-md/)|2018.04.05|100%|
 |011|网络|[小结http](http://reng99.cc/2018/03/11/summerize-http/)|2018.03.11|40%|
