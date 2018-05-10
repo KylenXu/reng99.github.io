@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/about/index.html</loc>
+    
+    <lastmod>2018-05-10T14:32:25.547Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/guestbook/index.html</loc>
     
     <lastmod>2018-05-10T03:09:59.339Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://reng99.cc/2018/05/01/tcp-three-handshake-four-bandge/</loc>
     
     <lastmod>2018-05-07T14:00:21.068Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/about/index.html</loc>
-    
-    <lastmod>2018-05-05T09:59:22.654Z</lastmod>
     
   </url>
   
