@@ -42,6 +42,10 @@
 |知乎|[链接](https://www.zhihu.com/people/reng99/activities)|
 |邮箱|1837895991@qq.com 或 18819473489@163.com|
 
+### 许可证
+
+[MIT](https://opensource.org/licenses/MIT)
+
 ### 后话
 
 喜欢的话就点右上角的小星星star一下了@~@!欢迎在issue中评论，评论会自动同步到[http://reng99.cc/](http://reng99.cc/)相关的博文下。
