@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/05/29/linked-list/</loc>
+    <lastmod>2018-05-29T10:48:51.934Z</lastmod>
+    <data>
+        <display>
+        <title>链表</title>
+        <pubTime>2018-05-29T10:42:37.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+        <tag>算法</tag>
+         
+         
+           
+             
+              <breadCrumb title="翻译" url="http://reng99.cc/categories/%E7%BF%BB%E8%AF%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/02/21/my-2018-plans/</loc>
     <lastmod>2018-05-28T12:08:09.041Z</lastmod>
     <data>
@@ -117,9 +139,9 @@
         <title>重读《JavaScript高级程序设计》</title>
         <pubTime>2018-03-01T09:09:19.000Z</pubTime>
         
-        <tag>javascript</tag>
-         
         <tag>读书</tag>
+         
+        <tag>javascript</tag>
          
          
            
