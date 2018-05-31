@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[链表]]></title>
     <url>%2F2018%2F05%2F29%2Flinked-list%2F</url>
-    <content type="text"><![CDATA[正在完善中… 参考维基百科link_list 精力有限，未能一次更新完…]]></content>
+    <content type="text"><![CDATA[在计算机科学领域，链表就是一组数据的线性集合，这种集合的顺序不是根据数据被存放在内存中的顺序决定的。而是根据每个元素的指向下一个的指针决定。 链表是由类队列的一组节点组合而成的数据。Under the simplest form 参考维基百科link_list 精力有限，未能一次更新完…]]></content>
       <categories>
         <category>翻译</category>
       </categories>
@@ -86,8 +86,8 @@
         <category>前端开发</category>
       </categories>
       <tags>
-        <tag>读书</tag>
         <tag>javascript</tag>
+        <tag>读书</tag>
       </tags>
   </entry>
   <entry>
