@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[d3js学习]]></title>
     <url>%2F2018%2F06%2F09%2Fd3js-learning%2F</url>
-    <content type="text"><![CDATA[d3js-learning 精力有限，未能一次更新完…]]></content>
+    <content type="text"><![CDATA[D3.js是一个基于数据处理文档的JavaScript库。D3帮助你使用HTML,SVG和CSS将数据呈现出来。D3依赖于标准的web技术来绘制可视化的元素。 介绍D3允许你将任意的数据绑定到文档对象模型(DOM)，然后将数据驱动的转换应用到文档中。比如，可以使用D3将数组数据生成一个HTML文档。或者，使用相同的数据创建具有平滑过渡和交互的交互式SVG条形图。 D3不是一个旨在提供所有可能功能的单一框架。相方的，D3解决了问题的关键：根据数据有效地处理文档。这就避免了专有代理，并提供了非凡的灵活性，展示了诸如HTML，SVG和CSS等网络标准的全部功能。以最小的开销，D3非常快，支持大数据集和动态行为以进行交互和动画。D3的功能风格允许通过各种官方和开发社区模块来重复使用代码。 精力有限，未能一次更新完…]]></content>
       <categories>
         <category>前端开发</category>
       </categories>

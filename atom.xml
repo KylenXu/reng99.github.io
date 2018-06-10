@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-06-09T14:18:44.094Z</updated>
+  <updated>2018-06-10T03:05:07.651Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://reng99.cc/2018/06/09/d3js-learning/"/>
     <id>http://reng99.cc/2018/06/09/d3js-learning/</id>
     <published>2018-06-09T12:26:17.000Z</published>
-    <updated>2018-06-09T14:18:44.094Z</updated>
+    <updated>2018-06-10T03:05:07.651Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/d3/banner.jpg" alt="frontend/d3/banner"></p><blockquote><p>d3js-learning</p></blockquote><a id="more"></a><p style="text-align:center;color: #f00;font-size: 14px;">精力有限，未能一次更新完…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/d3/banner.jpg" alt="frontend/d3/banner"></p><p>D3.js是一个基于数据处理文档的JavaScript库。D3帮助你使用HTML,<a href="https://baike.baidu.com/item/SVG/63178?fr=aladdin" target="_blank" rel="noopener">SVG</a>和CSS将数据呈现出来。D3依赖于标准的web技术来绘制可视化的元素。</p><a id="more"></a><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>D3允许你将任意的数据绑定到文档对象模型(DOM)，然后将数据驱动的转换应用到文档中。比如，可以使用D3将数组数据生成一个HTML文档。或者，使用相同的数据创建具有平滑过渡和交互的交互式SVG条形图。</p><p>D3不是一个旨在提供所有可能功能的单一框架。相方的，D3解决了问题的关键：根据数据有效地处理文档。这就避免了专有代理，并提供了非凡的灵活性，展示了诸如HTML，SVG和CSS等网络标准的全部功能。以最小的开销，D3非常快，支持大数据集和动态行为以进行交互和动画。D3的功能风格允许通过各种官方和开发社区模块来重复使用代码。</p><p style="text-align:center;color: #f00;font-size: 14px;">精力有限，未能一次更新完…</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/d3/banner.jpg&quot; alt=&quot;frontend/d3/banner&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;d3js-learning&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;D3.js是一个基于数据处理文档的JavaScript库。D3帮助你使用HTML,&lt;a href=&quot;https://baike.baidu.com/item/SVG/63178?fr=aladdin&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SVG&lt;/a&gt;和CSS将数据呈现出来。D3依赖于标准的web技术来绘制可视化的元素。&lt;/p&gt;
     
     </summary>
     
