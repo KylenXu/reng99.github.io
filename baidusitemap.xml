@@ -4,8 +4,30 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
+    <lastmod>2018-06-11T02:16:22.295Z</lastmod>
+    <data>
+        <display>
+        <title>重读《JavaScript高级程序设计》</title>
+        <pubTime>2018-03-01T09:09:19.000Z</pubTime>
+        
+        <tag>读书</tag>
+         
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/06/09/d3js-learning/</loc>
-    <lastmod>2018-06-10T09:09:42.020Z</lastmod>
+    <lastmod>2018-06-10T09:20:20.672Z</lastmod>
     <data>
         <display>
         <title>d3js学习</title>
@@ -159,28 +181,6 @@
         <title>深入理解原型对象和原型链</title>
         <pubTime>2018-04-05T07:52:31.000Z</pubTime>
         
-        <tag>javascript</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/03/01/javascript-high-level/</loc>
-    <lastmod>2018-04-12T07:14:03.938Z</lastmod>
-    <data>
-        <display>
-        <title>重读《JavaScript高级程序设计》</title>
-        <pubTime>2018-03-01T09:09:19.000Z</pubTime>
-        
-        <tag>读书</tag>
-         
         <tag>javascript</tag>
          
          
