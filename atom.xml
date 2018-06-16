@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-06-16T04:25:53.487Z</updated>
+  <updated>2018-06-16T15:41:19.116Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://reng99.cc/2018/06/16/algorithm-stack/"/>
     <id>http://reng99.cc/2018/06/16/algorithm-stack/</id>
     <published>2018-06-16T04:20:52.000Z</published>
-    <updated>2018-06-16T04:25:53.487Z</updated>
+    <updated>2018-06-16T15:41:19.116Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/algorithm/stack/stack_banner.jpg" alt="algorithm/stack/stack_banner"></p><blockquote><p>算法-栈</p></blockquote><a id="more"></a><p>今天补充完，先看画展@～@</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/algorithm/stack/stack_banner.jpg" alt="algorithm/stack/stack_banner"></p><p>栈是一种遵从后进先出(LIFO)原则的有序集合。新添加的或待删除的元素都保留在栈的末尾，称为栈顶，另一端就叫栈底。在栈里，新元素都靠近栈顶，旧元素都靠近栈底。</p><a id="more"></a><p>有待补充，先看画展@～@</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/algorithm/stack/stack_banner.jpg&quot; alt=&quot;algorithm/stack/stack_banner&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;算法-栈&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;栈是一种遵从后进先出(LIFO)原则的有序集合。新添加的或待删除的元素都保留在栈的末尾，称为栈顶，另一端就叫栈底。在栈里，新元素都靠近栈顶，旧元素都靠近栈底。&lt;/p&gt;
     
     </summary>
     
@@ -271,9 +269,9 @@
       <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="读书" scheme="http://reng99.cc/tags/%E8%AF%BB%E4%B9%A6/"/>
-    
       <category term="javascript" scheme="http://reng99.cc/tags/javascript/"/>
+    
+      <category term="读书" scheme="http://reng99.cc/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   

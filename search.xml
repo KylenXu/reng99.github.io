@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[栈]]></title>
     <url>%2F2018%2F06%2F16%2Falgorithm-stack%2F</url>
-    <content type="text"><![CDATA[算法-栈 今天补充完，先看画展@～@]]></content>
+    <content type="text"><![CDATA[栈是一种遵从后进先出(LIFO)原则的有序集合。新添加的或待删除的元素都保留在栈的末尾，称为栈顶，另一端就叫栈底。在栈里，新元素都靠近栈顶，旧元素都靠近栈底。 有待补充，先看画展@～@]]></content>
       <categories>
         <category>算法</category>
       </categories>
@@ -119,8 +119,8 @@
         <category>前端开发</category>
       </categories>
       <tags>
-        <tag>读书</tag>
         <tag>javascript</tag>
+        <tag>读书</tag>
       </tags>
   </entry>
   <entry>
