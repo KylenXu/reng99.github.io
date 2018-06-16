@@ -1,11 +1,18 @@
 ## 嘉明的博客
 
-本仓库是存放静态博文，业余的时间进行更新，所写的文章不仅仅包括自己理解的技术文哈，毕竟还有诗和远方嘛。
+[![](https://img.shields.io/github/issues/reng99/reng99.github.io.svg)](https://github.com/reng99/reng99.github.io/issues)  
+[![](https://img.shields.io/github/forks/reng99/reng99.github.io.svg)](https://github.com/reng99/reng99.github.io/network) 
+[![](https://img.shields.io/github/stars/reng99/reng99.github.io.svg)](https://github.com/reng99/reng99.github.io/stargazers) 
+[![](https://travis-ci.org/reng99/reng99.github.io.svg?branch=master)](https://travis-ci.org/reng99/reng99.github.io) 
+[![](https://img.shields.io/github/release/reng99/reng99.github.io.svg)](https://github.com/reng99/reng99.github.io/releases)
+
+本仓库是存放静态博文，业余的时间进行更新，所写的文章不仅仅包括自己理解的技术文哈，毕竟还有诗和远方嘛。come on :muscle:
 
 ### 博客目录
 
 |序号|分类|相关博文|博文编写日期|备注|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
+|019|算法|[栈](http://reng99.cc/2018/06/16/algorithm-stack/)|2018.06.16|1%|
 |018|前端开发|[javascript基础](http://reng99.cc/2018/06/14/javascript-foundation/)|2018.06.14|100%|
 |017|前端开发|[d3js学习](http://reng99.cc/2018/06/09/d3js-learning/)|2018.06.09|90%|
 |016|诗和远方|[从前慢](http://reng99.cc/2018/05/30/slow-in-past/)|2018.05.30|100%|
