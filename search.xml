@@ -3,9 +3,9 @@
   <entry>
     <title><![CDATA[栈]]></title>
     <url>%2F2018%2F06%2F16%2Falgorithm-stack%2F</url>
-    <content type="text"><![CDATA[栈是一种遵从后进先出(LIFO)原则的有序集合。新添加的或待删除的元素都保留在栈的末尾，称为栈顶，另一端就叫栈底。在栈里，新元素都靠近栈顶，旧元素都靠近栈底。 有待补充，先看画展@～@]]></content>
+    <content type="text"><![CDATA[栈是一种遵从后进先出(LIFO)原则的有序集合。新添加的或待删除的元素都保留在栈的末尾，称为栈顶，另一端就叫栈底。在栈里，新元素都靠近栈顶，旧元素都靠近栈底。 定义一个栈类使用构造函数来定义一个栈类： 123function Stack ()&#123; // 各种属性和方法的声明&#125; 这里定义的存放的数据结构是数组。var item = []。 入栈数组本身就有方法push进来一个内容，这里也是使用这个方法，我们来写一下： 123function push(element)&#123; items.push(element);&#125; 出栈pop也是数组的方法，表示出栈，这里也是使用pop为函数名： 123function pop()&#123; return items.pop();&#125; 完整代码还有方法，比如返回栈顶元素，检查是否是空栈等。这里不展开讲，下面全列出代码： 123456789101112131415161718192021222324252627282930313233343536function Stack() &#123; // 定义存储的数据结构 var items = []; // 入栈，返回新的数组 this.push = function(element) &#123; items.push(element); &#125;; // 出栈，弹出栈顶元素 this.pop = function() &#123; return item.pop(); &#125;; // 获取栈顶元素 this.peek = function() &#123; return items[items.length-1]; &#125;; // 检查是否是空栈 this.isEmpty = function() &#123; return items.length == 0; &#125;; // 栈元素的个数 this.size = function() &#123; return items.length; &#125;; // 展示栈的元素 this.print = function() &#123; console.log(items.toString()); &#125;; &#125;]]></content>
       <categories>
-        <category>算法</category>
+        <category>数据结构</category>
       </categories>
       <tags>
         <tag>栈</tag>
