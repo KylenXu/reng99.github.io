@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[algorithm-queue]]></title>
+    <url>%2F2018%2F06%2F17%2Falgorithm-queue%2F</url>
+    <content type="text"><![CDATA[队列是遵循FIFO（First In First Out，先进先出，也称为先来先服务）原则的一组有序的项。队列在队尾添加新元素，并从顶部移除元素。最新添加的元素必须排在队列的末尾。 定义一个队列类类似创建栈，创建队列也是使用构造函数： 123function Queue() &#123; // 这里是属性和方法&#125; 存放数据也是使用一个数组var items = []。 完整的基本代码直接上基本的完整代码和相关的代码注释： 123456789101112131415161718192021222324252627282930313233343536373839404142434445function Queue() &#123; // 存储数据的结构 var items = []; // 入队，相当于入栈 this.enqueue = function(element) &#123; items.push(element); &#125;; // 出队，相当于出栈 this.dequeue = function() &#123; return item.shift(); &#125; // 队首，队列的第一个元素 this.front = function() &#123; return items[0]; &#125;; // 队尾，队列的最后一个元素 this.end = function() &#123; return items[items.length - 1]; &#125;; // 检查队列是否是空的队列 this.isEmpty = function() &#123; return items.length == 0; &#125;; // 将队列置空 this.clear = function() &#123; items = []; &#125;; // 队列的长度 this.size = function() &#123; return items.lenght; &#125;; // 展示/打印队列信息 this.print = function() &#123; console.log(items.toString()); &#125;&#125; 基本的代码跟之前的栈的代码是大同小异，更多的代码请查看https://github.com/reng99/algorithm]]></content>
+      <categories>
+        <category>数据结构</category>
+      </categories>
+      <tags>
+        <tag>队列</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[栈]]></title>
     <url>%2F2018%2F06%2F16%2Falgorithm-stack%2F</url>
     <content type="text"><![CDATA[栈是一种遵从后进先出(LIFO)原则的有序集合。新添加的或待删除的元素都保留在栈的末尾，称为栈顶，另一端就叫栈底。在栈里，新元素都靠近栈顶，旧元素都靠近栈底。 定义一个栈类使用构造函数来定义一个栈类： 123function Stack ()&#123; // 各种属性和方法的声明&#125; 这里定义的存放的数据结构是数组。var item = []。 入栈数组本身就有方法push进来一个内容，这里也是使用这个方法，我们来写一下： 123function push(element)&#123; items.push(element);&#125; 出栈pop也是数组的方法，表示出栈，这里也是使用pop为函数名： 123function pop()&#123; return items.pop();&#125; 完整代码还有方法，比如返回栈顶元素，检查是否是空栈等。这里不展开讲，下面全列出代码： 123456789101112131415161718192021222324252627282930313233343536function Stack() &#123; // 定义存储的数据结构 var items = []; // 入栈，返回新的数组 this.push = function(element) &#123; items.push(element); &#125;; // 出栈，弹出栈顶元素 this.pop = function() &#123; return item.pop(); &#125;; // 获取栈顶元素 this.peek = function() &#123; return items[items.length-1]; &#125;; // 检查是否是空栈 this.isEmpty = function() &#123; return items.length == 0; &#125;; // 栈元素的个数 this.size = function() &#123; return items.length; &#125;; // 展示栈的元素 this.print = function() &#123; console.log(items.toString()); &#125;; &#125; 更多的代码请看https://github.com/reng99/algorithm]]></content>
@@ -119,8 +130,8 @@
         <category>前端开发</category>
       </categories>
       <tags>
-        <tag>javascript</tag>
         <tag>读书</tag>
+        <tag>javascript</tag>
       </tags>
   </entry>
   <entry>

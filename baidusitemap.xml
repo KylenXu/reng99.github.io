@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/06/17/algorithm-queue/</loc>
+    <lastmod>2018-06-17T08:55:31.740Z</lastmod>
+    <data>
+        <display>
+        <title>algorithm-queue</title>
+        <pubTime>2018-06-17T05:11:08.000Z</pubTime>
+        
+        <tag>队列</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据结构" url="http://reng99.cc/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/06/16/algorithm-stack/</loc>
     <lastmod>2018-06-17T04:58:10.221Z</lastmod>
     <data>
@@ -71,9 +91,9 @@
         <title>重读《JavaScript高级程序设计》</title>
         <pubTime>2018-03-01T09:09:19.000Z</pubTime>
         
-        <tag>javascript</tag>
-         
         <tag>读书</tag>
+         
+        <tag>javascript</tag>
          
          
            

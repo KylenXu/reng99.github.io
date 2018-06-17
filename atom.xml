@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-06-17T04:58:10.221Z</updated>
+  <updated>2018-06-17T08:55:31.740Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>algorithm-queue</title>
+    <link href="http://reng99.cc/2018/06/17/algorithm-queue/"/>
+    <id>http://reng99.cc/2018/06/17/algorithm-queue/</id>
+    <published>2018-06-17T05:11:08.000Z</published>
+    <updated>2018-06-17T08:55:31.740Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/algorithm/queue/queue_banner.jpg" alt="algorithm/queue/queue_banner"></p><p>队列是遵循FIFO（First In First Out，先进先出，也称为先来先服务）原则的一组有序的项。队列在队尾添加新元素，并从顶部移除元素。最新添加的元素必须排在队列的末尾。</p><a id="more"></a><h2 id="定义一个队列类"><a href="#定义一个队列类" class="headerlink" title="定义一个队列类"></a>定义一个队列类</h2><p>类似创建栈，创建队列也是使用构造函数：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">Queue</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="comment">// 这里是属性和方法</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>存放数据也是使用一个数组<code>var items = []</code>。</p><h2 id="完整的基本代码"><a href="#完整的基本代码" class="headerlink" title="完整的基本代码"></a>完整的基本代码</h2><p>直接上基本的完整代码和相关的代码注释：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">Queue</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 存储数据的结构</span></span><br><span class="line"><span class="keyword">var</span> items = [];</span><br><span class="line"></span><br><span class="line"><span class="comment">// 入队，相当于入栈</span></span><br><span class="line"><span class="keyword">this</span>.enqueue = <span class="function"><span class="keyword">function</span>(<span class="params">element</span>) </span>&#123;</span><br><span class="line">items.push(element);</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 出队，相当于出栈</span></span><br><span class="line"><span class="keyword">this</span>.dequeue = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="keyword">return</span> item.shift();</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 队首，队列的第一个元素</span></span><br><span class="line"><span class="keyword">this</span>.front = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="keyword">return</span> items[<span class="number">0</span>];</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 队尾，队列的最后一个元素</span></span><br><span class="line"><span class="keyword">this</span>.end = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="keyword">return</span> items[items.length - <span class="number">1</span>];</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 检查队列是否是空的队列</span></span><br><span class="line"><span class="keyword">this</span>.isEmpty = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="keyword">return</span> items.length == <span class="number">0</span>;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 将队列置空</span></span><br><span class="line"><span class="keyword">this</span>.clear = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line">items = [];</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 队列的长度</span></span><br><span class="line"><span class="keyword">this</span>.size = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="keyword">return</span> items.lenght;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br><span class="line"><span class="comment">// 展示/打印队列信息</span></span><br><span class="line"><span class="keyword">this</span>.print = <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</span><br><span class="line"><span class="built_in">console</span>.log(items.toString());</span><br><span class="line">&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>基本的代码跟之前的<a href="http://reng99.cc/2018/06/16/algorithm-stack/">栈</a>的代码是大同小异，更多的代码请查看<a href="https://github.com/reng99/algorithm" target="_blank" rel="noopener">https://github.com/reng99/algorithm</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/algorithm/queue/queue_banner.jpg&quot; alt=&quot;algorithm/queue/queue_banner&quot;&gt;&lt;/p&gt;
+&lt;p&gt;队列是遵循FIFO（First In First Out，先进先出，也称为先来先服务）原则的一组有序的项。队列在队尾添加新元素，并从顶部移除元素。最新添加的元素必须排在队列的末尾。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="数据结构" scheme="http://reng99.cc/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+      <category term="队列" scheme="http://reng99.cc/tags/%E9%98%9F%E5%88%97/"/>
+    
+  </entry>
   
   <entry>
     <title>栈</title>
@@ -269,9 +292,9 @@
       <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="javascript" scheme="http://reng99.cc/tags/javascript/"/>
-    
       <category term="读书" scheme="http://reng99.cc/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="javascript" scheme="http://reng99.cc/tags/javascript/"/>
     
   </entry>
   
