@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[algorithm-queue]]></title>
+    <title><![CDATA[链表]]></title>
+    <url>%2F2018%2F06%2F17%2Falgorithm-linked-list%2F</url>
+    <content type="text"><![CDATA[有待补充]]></content>
+      <categories>
+        <category>数据结构</category>
+      </categories>
+      <tags>
+        <tag>链表</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[队列]]></title>
     <url>%2F2018%2F06%2F17%2Falgorithm-queue%2F</url>
     <content type="text"><![CDATA[队列是遵循FIFO（First In First Out，先进先出，也称为先来先服务）原则的一组有序的项。队列在队尾添加新元素，并从顶部移除元素。最新添加的元素必须排在队列的末尾。 定义一个队列类类似创建栈，创建队列也是使用构造函数： 123function Queue() &#123; // 这里是属性和方法&#125; 存放数据也是使用一个数组var items = []。 完整的基本代码直接上基本的完整代码和相关的代码注释： 123456789101112131415161718192021222324252627282930313233343536373839404142434445function Queue() &#123; // 存储数据的结构 var items = []; // 入队，相当于入栈 this.enqueue = function(element) &#123; items.push(element); &#125;; // 出队，相当于出栈 this.dequeue = function() &#123; return item.shift(); &#125; // 队首，队列的第一个元素 this.front = function() &#123; return items[0]; &#125;; // 队尾，队列的最后一个元素 this.end = function() &#123; return items[items.length - 1]; &#125;; // 检查队列是否是空的队列 this.isEmpty = function() &#123; return items.length == 0; &#125;; // 将队列置空 this.clear = function() &#123; items = []; &#125;; // 队列的长度 this.size = function() &#123; return items.lenght; &#125;; // 展示/打印队列信息 this.print = function() &#123; console.log(items.toString()); &#125;&#125; 基本的代码跟之前的栈的代码是大同小异，更多的代码请查看https://github.com/reng99/algorithm]]></content>
       <categories>
