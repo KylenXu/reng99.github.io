@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[字典]]></title>
+    <url>%2F2018%2F06%2F18%2Falgorithm-dictionary%2F</url>
+    <content type="text"><![CDATA[有待补充 午觉后再补充@～@]]></content>
+      <categories>
+        <category>数据结构</category>
+      </categories>
+      <tags>
+        <tag>字典</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[集合]]></title>
     <url>%2F2018%2F06%2F18%2Falgorithm-set%2F</url>
     <content type="text"><![CDATA[集合(Set)是一种包含不同元素的数据结构。集合中的元素称为成员，集合的两个最重要的特性是：首先，集合中的成员是无序的；其次，集合中不允许相同成员的存在。 集合的定义 不包含任何成员的集合称为空集{}，全集则是包含一切可能成员的集合。 如何两个集合的成员完全相同，则称两个集合相等。 如果一个集合中所有的成员都属于另外一个集合，则前一集合称为后一个集合的子集。 集合的操作对集合的操作基本是下面三种： 并集: 将两个集合中的成员进行合并，得到一个新的集合。 交集: 两集合中共同存在的成员组成一个新的集合。 差集: 属于一个集合而不属于另一个集合的成员组成的集合。 子集: 验证一个给定集合是否是另一个集合的子集。 创建集合类这里还是使用构造函数进行创建集合类: 123function Set() &#123; // some code here ...&#125; 这里我们将使用对象来表示集合var items = {}，集合的键-值是相同的。当然，你也可以使用数组来表示，但是不够直观。而使用对象一个好处是，javascript的对象不允许一个键指向两个不同的属性，保证了集合里的元素都是唯一性的。 完整代码基本的完整代码如下： 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134function Set() &#123; // 选择对象而不是数组来表示集合 var items = &#123;&#125;; //判断是否存在键-值 this.has = function(value) &#123; return value in items; &#125;; // 也可以是使用hasOwmProperty来实现 this.has = function(value) &#123; return items.hasOwnProperty(value); &#125;; // 添加元素 this.add = function(value) &#123; if(!this.has(value))&#123; items[value] = value; return true; &#125; return false; &#125;; // 提取items对象，返回所有属性，以数组形式返回 // 下面的实现是在现代浏览器才能使用，当然借助babel可以转换成所有浏览器识别的代码 this.values = function() &#123; return Object.keys(items); &#125;; // 下面的实现在任何浏览器上可以运行 this.values = function() &#123; var keys = []; for(var key in items)&#123; keys.push(key); &#125; return keys; &#125;; // 移除一个元素 this.remove = function(value) &#123; if(this.has(value))&#123; delete items[value]; return true; &#125; return false; &#125;; // 清空集合中所有值 this.clear = function() &#123; items = &#123;&#125;; &#125;; // 获取集合的数量 // 下面的实现是在现代浏览器才能使用，当然借助babel可以转换成所有浏览器识别的代码 this.size = function() &#123; return Object.keys(items).length; &#125;; // 所有浏览器都可以运行 this.size = function() &#123; var count = 0; for(var prop in items)&#123; if(items.hasOwnProperty(prop))&#123; ++count; &#125; return count; &#125; &#125;; // 并集 this.union = function(otherSet)&#123; // 定义一个并集 var unionSet = new Set(); // 本集合对象 var values = this.values(); for(var i = 0; i &lt; values.length; i++)&#123; unionSet.add(values[i]); &#125; // 已知的另外一个集合对象 values = otherSet.values(); for(var i = 0 ; i &lt; values.length; i++)&#123; unionSet.add(values[i]); &#125; return unionSet; &#125;; // 交集 this.intersection = function(otherSet) &#123; // 定义一个交集 var intersectionSet = new Set(); var values = this.values(); for(var i = 0; i &lt; values.length; i++)&#123; if(otherSet.has(values[i]))&#123; intersectionSet.add(values[i]); &#125; &#125; return intersectionSet; &#125;; // 差集 this.difference = function(otherSet) &#123; // 定义一个差集 var differenceSet = new Set(); var values = this.values(); for(var i = 0; i &lt; values.length; i++)&#123; if(!otherSet.has(values[i]))&#123; differenceSet.add(values[i]); &#125; &#125; return differenceSet; &#125;; // 子集 this.subset = function(otherSet) &#123; // 如果个数越界肯定不是子集了 if(this.size() &gt; otherSet.size())&#123; return false; &#125; else &#123; var values = this.values(); for(var i = 0; i &lt; values.length ; i++)&#123; // 只要有一个元素不再另外的集合里面，则不是子集 if(!otherSet.has(values[i]))&#123; return false; &#125; &#125; return true; &#125; &#125;;&#125; 更多的代码请查看https://github.com/reng99/algorithm。]]></content>
@@ -151,8 +162,8 @@
         <category>前端开发</category>
       </categories>
       <tags>
-        <tag>javascript</tag>
         <tag>读书</tag>
+        <tag>javascript</tag>
       </tags>
   </entry>
   <entry>
