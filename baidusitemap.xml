@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/06/14/javascript-foundation/</loc>
+    <lastmod>2018-06-18T09:56:04.191Z</lastmod>
+    <data>
+        <display>
+        <title>javascript基础</title>
+        <pubTime>2018-06-14T15:29:27.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="技术交流" url="http://reng99.cc/categories/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/06/18/algorithm-dictionary/</loc>
     <lastmod>2018-06-18T09:44:26.841Z</lastmod>
     <data>
@@ -117,26 +137,6 @@
            
              
               <breadCrumb title="数据结构" url="http://reng99.cc/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/06/14/javascript-foundation/</loc>
-    <lastmod>2018-06-15T05:16:04.806Z</lastmod>
-    <data>
-        <display>
-        <title>javascript基础</title>
-        <pubTime>2018-06-14T15:29:27.000Z</pubTime>
-        
-        <tag>javascript</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
           
         </display>
     </data>
