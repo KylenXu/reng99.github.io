@@ -4,11 +4,31 @@
 
     
   <url>
-    <loc>http://reng99.cc/2018/06/14/javascript-foundation/</loc>
-    <lastmod>2018-06-18T09:56:04.191Z</lastmod>
+    <loc>http://reng99.cc/2018/06/18/algorithm-hash/</loc>
+    <lastmod>2018-06-18T10:02:17.312Z</lastmod>
     <data>
         <display>
-        <title>javascript基础</title>
+        <title>散列</title>
+        <pubTime>2018-06-18T10:00:48.000Z</pubTime>
+        
+        <tag>散列</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据结构" url="http://reng99.cc/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://reng99.cc/2018/06/14/javascript-foundation/</loc>
+    <lastmod>2018-06-18T09:59:14.751Z</lastmod>
+    <data>
+        <display>
+        <title>javascript基础 -- 内部分享</title>
         <pubTime>2018-06-14T15:29:27.000Z</pubTime>
         
         <tag>javascript</tag>
