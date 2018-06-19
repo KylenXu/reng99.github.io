@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-06-18T14:20:28.763Z</updated>
+  <updated>2018-06-19T15:13:55.838Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="http://reng99.cc/2018/06/18/algorithm-hash/"/>
     <id>http://reng99.cc/2018/06/18/algorithm-hash/</id>
     <published>2018-06-18T10:00:48.000Z</published>
-    <updated>2018-06-18T14:20:28.763Z</updated>
+    <updated>2018-06-19T15:13:55.838Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>散列</p></blockquote><a id="more"></a><p>@~@</p><p>有待补充…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/algorithm/hash/banner.jpg" alt="algorithm/hash/banner"></p><p>散列是一种常用的数据存储技术，散列后的数据可以进行快速地插入或取用。散列使用的数据结构叫做散列表（hash table, 也叫哈希表）。在散列表中<strong>插入、删除和取用数据</strong>都非常快，但是对于查找操作来说却效率低下，比如查找一组数据中的最大或者最小值。</p><a id="more"></a><p>@~@</p><p>有待补充…</p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
-&lt;p&gt;散列&lt;/p&gt;
-&lt;/blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/algorithm/hash/banner.jpg&quot; alt=&quot;algorithm/hash/banner&quot;&gt;&lt;/p&gt;
+&lt;p&gt;散列是一种常用的数据存储技术，散列后的数据可以进行快速地插入或取用。散列使用的数据结构叫做散列表（hash table, 也叫哈希表）。在散列表中&lt;strong&gt;插入、删除和取用数据&lt;/strong&gt;都非常快，但是对于查找操作来说却效率低下，比如查找一组数据中的最大或者最小值。&lt;/p&gt;
     
     </summary>
     

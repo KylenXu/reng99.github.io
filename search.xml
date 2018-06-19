@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[散列]]></title>
     <url>%2F2018%2F06%2F18%2Falgorithm-hash%2F</url>
-    <content type="text"><![CDATA[散列 @~@ 有待补充…]]></content>
+    <content type="text"><![CDATA[散列是一种常用的数据存储技术，散列后的数据可以进行快速地插入或取用。散列使用的数据结构叫做散列表（hash table, 也叫哈希表）。在散列表中插入、删除和取用数据都非常快，但是对于查找操作来说却效率低下，比如查找一组数据中的最大或者最小值。 @~@ 有待补充…]]></content>
       <categories>
         <category>数据结构</category>
       </categories>
