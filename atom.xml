@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-06-19T15:13:55.838Z</updated>
+  <updated>2018-06-25T15:22:03.195Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://reng99.cc/2018/06/18/algorithm-hash/"/>
     <id>http://reng99.cc/2018/06/18/algorithm-hash/</id>
     <published>2018-06-18T10:00:48.000Z</published>
-    <updated>2018-06-19T15:13:55.838Z</updated>
+    <updated>2018-06-25T15:22:03.195Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/algorithm/hash/banner.jpg" alt="algorithm/hash/banner"></p><p>散列是一种常用的数据存储技术，散列后的数据可以进行快速地插入或取用。散列使用的数据结构叫做散列表（hash table, 也叫哈希表）。在散列表中<strong>插入、删除和取用数据</strong>都非常快，但是对于查找操作来说却效率低下，比如查找一组数据中的最大或者最小值。</p><a id="more"></a><p>@~@</p><p>有待补充…</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/algorithm/hash/banner.jpg" alt="algorithm/hash/banner"></p><p>散列是一种常用的数据存储技术，散列后的数据可以进行快速地插入或取用。散列使用的数据结构叫做散列表（hash table, 也叫哈希表）。在散列表中<strong>插入、删除和取用数据</strong>都非常快，但是对于查找操作来说却效率低下，比如查找一组数据中的最大或者最小值。</p><a id="more"></a><blockquote><p>散列算法的作用是尽可能快地在数据结构中找到一个值。在前面几个博文中提到的数据结构，我门如果在数据结构中获取一个值（使用get方法），需要遍历整个数据库来找到它。如果使用散列函数，就知道值的具体位置，因此你能够快速检索到该值。散列函数的作用是给定一个键值，然后返回值在表中的地址。</p></blockquote><p>见下图的例子（散列函数这里随意了）：</p><blockquote><p>…</p></blockquote><p style="color:red;text-align:center;">业余时间补充…</p>]]></content>
     
     <summary type="html">
     
