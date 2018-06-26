@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[散列]]></title>
     <url>%2F2018%2F06%2F18%2Falgorithm-hash%2F</url>
-    <content type="text"><![CDATA[散列是一种常用的数据存储技术，散列后的数据可以进行快速地插入或取用。散列使用的数据结构叫做散列表（hash table, 也叫哈希表）。在散列表中插入、删除和取用数据都非常快，但是对于查找操作来说却效率低下，比如查找一组数据中的最大或者最小值。 散列算法的作用是尽可能快地在数据结构中找到一个值。在前面几个博文中提到的数据结构，我门如果在数据结构中获取一个值（使用get方法），需要遍历整个数据库来找到它。如果使用散列函数，就知道值的具体位置，因此你能够快速检索到该值。散列函数的作用是给定一个键值，然后返回值在表中的地址。 见下图的例子（散列函数这里随意了）： … 业余时间补充…]]></content>
+    <content type="text"><![CDATA[散列是一种常用的数据存储技术，散列后的数据可以进行快速地插入或取用。散列使用的数据结构叫做散列表（hash table, 也叫哈希表）。在散列表中插入、删除和取用数据都非常快，但是对于查找操作来说却效率低下，比如查找一组数据中的最大或者最小值。 散列算法的作用是尽可能快地在数据结构中找到一个值。在前面几个博文中提到的数据结构，我门如果在数据结构中获取一个值（使用get方法），需要遍历整个数据库来找到它。如果使用散列函数，就知道值的具体位置，因此你能够快速检索到该值。散列函数的作用是给定一个键值，然后返回值在表中的地址。 见下图的例子（散列函数这里取ascii值相加-电子邮件地址薄）： 创建一个散列表搭建散列表类如下： 1234function HashTable() &#123; var table = [];&#125; 简单的散列函数如下（取上图的ascii值）: 12345678var loseloseHashCode = function(key) &#123; var hash = 0; for(var i = 0; i &lt; key.length; i++)&#123; hash += key.charCodeAt(i); &#125; return hash % 37;&#125; 基本完整代码hash表的简单demo的基本完整代码如下： 1234567891011121314151617181920212223242526272829var loseloseHashCode = function(key) &#123; var hash = 0; for(var i = 0; i &lt; key.length; i++)&#123; hash += key.charCodeAt(i); &#125; return hash % 37;&#125;function HashTable() &#123; var table = []; // 向散列表中增加一个新的项（也能更新散列表） this.put = function(key , value) &#123; var position = loseloseHashCode(key); console.log(position + ' - ' + key); table[position] = value; &#125;; // 返回检索到的特定的值 this.get = function (key) &#123; return table[loseloseHashCode(key)]; &#125;; // 根据键值从散列表中移除值 this.remove = function(key) &#123; table[loseloseHashCode(key)] = undefined; &#125;&#125; 业余时间补充…]]></content>
       <categories>
         <category>数据结构</category>
       </categories>
