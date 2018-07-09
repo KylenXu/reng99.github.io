@@ -6,7 +6,7 @@
 [![](https://travis-ci.org/reng99/reng99.github.io.svg?branch=master)](https://travis-ci.org/reng99/reng99.github.io) 
 [![](https://img.shields.io/github/release/reng99/reng99.github.io.svg)](https://github.com/reng99/reng99.github.io/releases)
 
-本仓库是存放静态博文，业余的时间进行更新，所写的文章不仅仅包括自己理解的技术文哈，毕竟还有诗和远方嘛。COME ON :muscle:
+本仓库是存放静态博文，业余的时间进行更新，所写的文章不仅仅包括自己理解的技术文哈，毕竟还有诗和远方 @-@
 
 ### 博客目录
 
@@ -67,7 +67,9 @@
 
 ### 后话
 
-喜欢的话就点右上角的小星星star一下了@~@!欢迎在issue中评论，评论会自动同步到[http://reng99.cc/](http://reng99.cc/)相关的博文下。
+喜欢的话就点右上角的小星星star一下了 @~@!!!
+
+欢迎在issue中评论，评论会自动同步到[http://reng99.cc/](http://reng99.cc/)相关的博文下。
 
 
 
