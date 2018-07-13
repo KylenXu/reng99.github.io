@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-07-08T14:47:34.313Z</updated>
+  <updated>2018-07-13T15:14:37.842Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,14 +21,13 @@
     <link href="http://reng99.cc/2018/07/08/yangShuo-tourist-second/"/>
     <id>http://reng99.cc/2018/07/08/yangShuo-tourist-second/</id>
     <published>2018-07-08T14:22:02.000Z</published>
-    <updated>2018-07-08T14:47:34.313Z</updated>
+    <updated>2018-07-13T15:14:37.842Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/life/tourist/yangShuoSecond/banner.jpg" alt="life/tourist/yangShuoSecond/banner"></p><p>时隔半年，周末(6.23-6.24)的时候又来到了阳朔，这次过来的阳朔是团队FEers一起来的，人多又是不同的一次体验，而且还遇上了下雨天气，又是不一番的景象。多图预警哈，啦啦啦～</p><a id="more"></a><blockquote><p>未完待续…</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>时隔半年，周末(6.23-6.24)的时候又来到了阳朔，这次过来阳朔是团队FEers一起来的，人多又是不同的一次体验，而且还遇上了下雨天气，又是不一番的景象。多图预警哈，啦啦啦～</p><a id="more"></a><blockquote><p>未完待续…</p></blockquote>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/life/tourist/yangShuoSecond/banner.jpg&quot; alt=&quot;life/tourist/yangShuoSecond/banner&quot;&gt;&lt;/p&gt;
-&lt;p&gt;时隔半年，周末(6.23-6.24)的时候又来到了阳朔，这次过来的阳朔是团队FEers一起来的，人多又是不同的一次体验，而且还遇上了下雨天气，又是不一番的景象。多图预警哈，啦啦啦～&lt;/p&gt;
+      &lt;p&gt;时隔半年，周末(6.23-6.24)的时候又来到了阳朔，这次过来阳朔是团队FEers一起来的，人多又是不同的一次体验，而且还遇上了下雨天气，又是不一番的景象。多图预警哈，啦啦啦～&lt;/p&gt;
     
     </summary>
     
@@ -451,9 +450,9 @@
       <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="javascript" scheme="http://reng99.cc/tags/javascript/"/>
-    
       <category term="读书" scheme="http://reng99.cc/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="javascript" scheme="http://reng99.cc/tags/javascript/"/>
     
   </entry>
   
