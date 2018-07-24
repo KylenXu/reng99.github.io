@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/07/24/xss-attack/</loc>
+    <lastmod>2018-07-24T12:26:54.311Z</lastmod>
+    <data>
+        <display>
+        <title>XSS攻击</title>
+        <pubTime>2018-07-24T12:25:02.000Z</pubTime>
+        
+        <tag>安全</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/07/08/yangShuo-tourist-second/</loc>
     <lastmod>2018-07-22T15:32:30.470Z</lastmod>
     <data>
@@ -272,9 +292,9 @@
         <title>重读《JavaScript高级程序设计》</title>
         <pubTime>2018-03-01T09:09:19.000Z</pubTime>
         
-        <tag>读书</tag>
-         
         <tag>javascript</tag>
+         
+        <tag>读书</tag>
          
          
            
