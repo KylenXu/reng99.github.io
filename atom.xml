@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-07-24T12:59:54.093Z</updated>
+  <updated>2018-07-25T15:33:48.545Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://reng99.cc/2018/07/24/xss-attack/"/>
     <id>http://reng99.cc/2018/07/24/xss-attack/</id>
     <published>2018-07-24T12:25:02.000Z</published>
-    <updated>2018-07-24T12:59:54.093Z</updated>
+    <updated>2018-07-25T15:33:48.545Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/security/xss/banner.jpg" alt="frontend/security/xss/banner"></p><blockquote><p>XSS 攻击</p></blockquote><a id="more"></a><blockquote><p>有待补充</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/security/xss/banner.jpg" alt="frontend/security/xss/banner"></p><p>XSS攻击全称<code>跨站脚本攻击</code>，是为不和层叠样式表（Cascading Style Sheet, CSS）的缩写混淆，故将跨站脚本攻击缩写为<code>XSS</code>。</p><a id="more"></a><blockquote><p>有待补充</p></blockquote>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/security/xss/banner.jpg&quot; alt=&quot;frontend/security/xss/banner&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;XSS 攻击&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;XSS攻击全称&lt;code&gt;跨站脚本攻击&lt;/code&gt;，是为不和层叠样式表（Cascading Style Sheet, CSS）的缩写混淆，故将跨站脚本攻击缩写为&lt;code&gt;XSS&lt;/code&gt;。&lt;/p&gt;
     
     </summary>
     

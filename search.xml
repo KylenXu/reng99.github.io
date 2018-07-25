@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[XSS攻击]]></title>
     <url>%2F2018%2F07%2F24%2Fxss-attack%2F</url>
-    <content type="text"><![CDATA[XSS 攻击 有待补充]]></content>
+    <content type="text"><![CDATA[XSS攻击全称跨站脚本攻击，是为不和层叠样式表（Cascading Style Sheet, CSS）的缩写混淆，故将跨站脚本攻击缩写为XSS。 有待补充]]></content>
       <categories>
         <category>前端开发</category>
       </categories>
