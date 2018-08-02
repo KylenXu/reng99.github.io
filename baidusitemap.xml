@@ -3,6 +3,48 @@
 
 
     
+  <url>
+    <loc>http://reng99.cc/2018/08/02/fixed-footer-methods/</loc>
+    <lastmod>2018-08-02T13:44:01.096Z</lastmod>
+    <data>
+        <display>
+        <title>固定页脚的方法</title>
+        <pubTime>2018-08-02T12:37:18.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://reng99.cc/2018/07/03/clear-float/</loc>
+    <lastmod>2018-08-02T12:40:41.238Z</lastmod>
+    <data>
+        <display>
+        <title>CSS清除浮动</title>
+        <pubTime>2018-07-03T04:59:16.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://reng99.cc/2018/07/24/xss-attack/</loc>
@@ -74,26 +116,6 @@
         <pubTime>2018-07-08T02:55:04.000Z</pubTime>
         
         <tag>javascript</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/07/03/clear-float/</loc>
-    <lastmod>2018-07-08T02:59:15.294Z</lastmod>
-    <data>
-        <display>
-        <title>CSS清除浮动</title>
-        <pubTime>2018-07-03T04:59:16.000Z</pubTime>
-        
-        <tag>CSS浮动</tag>
          
          
            
