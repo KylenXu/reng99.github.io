@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[关于BFC理解]]></title>
+    <url>%2F2018%2F08%2F12%2Fabout-BFC%2F</url>
+    <content type="text"><![CDATA[有待补充 有待补充]]></content>
+      <categories>
+        <category>前端开发</category>
+      </categories>
+      <tags>
+        <tag>CSS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[固定页脚的方法]]></title>
     <url>%2F2018%2F08%2F02%2Ffixed-footer-methods%2F</url>
     <content type="text"><![CDATA[在页面的开发过程中，会遇到屏幕的内容比较少，那么如果按照传统的布局的话，页脚就会上移，造成页脚底部有空余的空间，很不是美观。那么，我们应该进行相关的处理，使得内容较少的时候，页脚是固定在页面的底部的。 下面针对存css和javascript与css结合给出下面的几种方法： 使用margin-bottom为负数1234&lt;div class="wrapper"&gt; content&lt;/div&gt;&lt;div class="footer"&gt;footer&lt;/div&gt; 123456789101112html, body &#123; margin: 0; padding: 0; height: 100%;&#125;.wrapper &#123; min-height: 100%; margin-bottom: -50px; /* 等于footer的高度 */&#125;.footer, .push &#123; height: 50px;&#125; div.wrapper的margin-bottom需要和div.footer的-height值一样，注意是负height 将页脚的margin-top设为负数给内容外增加父元素，并将内容部分的padding-bottom与页脚的height相等。 123456&lt;div class="content"&gt; &lt;div class="content-inside"&gt; content &lt;/div&gt;&lt;/div&gt;&lt;div class="footer"&gt;footer&lt;/div&gt; 12345678910111213141516html, body &#123; margin: 0; padding: 0; height: 100%;&#125;.content &#123; min-height: 100%;&#125;.content-inside &#123; padding: 20px; padding-bottom: 50px;&#125;.footer &#123; height: 50px; margin-top: -50px;&#125; 使用calc()计算calc()函数用于动态计算长度值。传送门 1234&lt;div class="content"&gt; &lt;!-- content --&gt;&lt;/div&gt;&lt;div class="footer"&gt;footer&lt;/div&gt; 123456.content &#123; min-height: calc(100vh - 70px);&#125;.footer &#123; height: 50px;&#125; 使用flexbox弹性盒布局上面的几种方法的footer高度都是固定的，如果其内容过多的话就会破坏布局的，比较友好的有以下的解决：flex和grid。 1234&lt;div class="content"&gt; &lt;!-- content --&gt;&lt;/div&gt;&lt;div class="footer"&gt;footer&lt;/div&gt; 1234567891011html &#123; height: 100%;&#125;body &#123; min-height: 100%; display: flex; flex-direction: column;&#125;.content &#123; flex: 1;&#125; 使用grid网格布局display:grid应该说是一个display的属性值，相关的知识点可以戳这里了解更多。 1234&lt;div class="content"&gt; content&lt;/div&gt;&lt;div class="footer"&gt;footer&lt;/div&gt; 123456789101112html &#123; height: 100%;&#125;body &#123; min-height: 100%; display: grid; grid-template-rows: 1fr auto;&#125;.footer &#123; grid-row-start: 2; grid-row-end: 3;&#125; 结合js和min-height使用js进行页面的高度的获取，再减去底部的footer的高度，之后设置min-height就行。 12345&lt;div class="content"&gt; content&lt;/div&gt;&lt;div class="footer"&gt;&lt;/div&gt; 1234567html,body&#123; margin: 0; padding: 0;&#125;.footer&#123; height: 50px;&#125; 1234567// 获取浏览器的宽高 getClient() &#123; return &#123; width: window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth, height: window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight &#125; &#125; 后话 部分内容参考网络，欢迎指正！]]></content>
