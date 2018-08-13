@@ -18,7 +18,7 @@
 |027|诗和远方|[重游广西阳朔](http://reng99.cc/2018/07/08/yangShuo-tourist-second/)|2018.07.08|100%|
 |026|前端开发|[JavaScript糟粕部分](http://reng99.cc/2018/07/08/javascript-rubbishy-part/)|2018.07.08|100%|
 |025|前端开发|[css清除浮动](http://reng99.cc/2018/07/03/clear-float/)|2018.07.03|100%|
-|024|数据结构|[散列](http://reng99.cc/2018/06/18/algorithm-hash/)|2018.06.18|20%|
+|024|数据结构|[散列](http://reng99.cc/2018/06/18/algorithm-hash/)|2018.06.18|100%|
 |023|数据结构|[字典](http://reng99.cc/2018/06/18/algorithm-dictionary/)|2018.06.18|100%|
 |022|数据结构|[集合](http://reng99.cc/2018/06/18/algorithm-set/)|2018.06.18|100%|
 |021|数据结构|[链表](http://reng99.cc/2018/06/17/algorithm-linked-list/)|2018.06.17|100%|
