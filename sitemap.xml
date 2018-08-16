@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/souls/index.html</loc>
+    
+    <lastmod>2018-08-16T15:15:44.944Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2018/08/14/adaptability-layout/</loc>
     
     <lastmod>2018-08-14T11:16:00.313Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://reng99.cc/2018/08/12/about-BFC/</loc>
     
     <lastmod>2018-08-12T15:09:19.462Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/souls/index.html</loc>
-    
-    <lastmod>2018-08-05T15:06:03.933Z</lastmod>
     
   </url>
   
