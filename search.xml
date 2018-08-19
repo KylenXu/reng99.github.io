@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[部署静态站点]]></title>
+    <url>%2F2018%2F08%2F19%2Fstatic-website-deploy%2F</url>
+    <content type="text"><![CDATA[将静态资源部署到服务器上面]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>部署</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[自适应布局]]></title>
     <url>%2F2018%2F08%2F14%2Fadaptability-layout%2F</url>
     <content type="text"><![CDATA[有待补充 有待补充]]></content>
