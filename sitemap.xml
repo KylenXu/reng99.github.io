@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/2018/08/19/static-website-deploy/</loc>
+    
+    <lastmod>2018-08-21T15:15:13.394Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/guestbook/index.html</loc>
     
     <lastmod>2018-08-21T02:27:59.489Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://reng99.cc/souls/index.html</loc>
     
     <lastmod>2018-08-21T02:27:26.889Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/2018/08/19/static-website-deploy/</loc>
-    
-    <lastmod>2018-08-19T15:38:38.857Z</lastmod>
     
   </url>
   
