@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/08/14/adaptability-layout/</loc>
+    <lastmod>2018-08-22T15:33:44.307Z</lastmod>
+    <data>
+        <display>
+        <title>自适应布局</title>
+        <pubTime>2018-08-14T11:14:48.000Z</pubTime>
+        
+        <tag>CSS</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/08/19/static-website-deploy/</loc>
     <lastmod>2018-08-21T15:15:13.394Z</lastmod>
     <data>
@@ -24,26 +44,6 @@
 
     
     
-    
-  <url>
-    <loc>http://reng99.cc/2018/08/14/adaptability-layout/</loc>
-    <lastmod>2018-08-14T11:16:00.313Z</lastmod>
-    <data>
-        <display>
-        <title>自适应布局</title>
-        <pubTime>2018-08-14T11:14:48.000Z</pubTime>
-        
-        <tag>CSS</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://reng99.cc/2018/06/18/algorithm-hash/</loc>
