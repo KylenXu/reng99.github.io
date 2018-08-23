@@ -14,7 +14,7 @@
   <entry>
     <title><![CDATA[自适应布局]]></title>
     <url>%2F2018%2F08%2F14%2Fadaptability-layout%2F</url>
-    <content type="text"><![CDATA[有待补充 有待补充]]></content>
+    <content type="text"><![CDATA[在进入整体之前，有诸多的概念需要了解一下，比如物理像素等等。在理解相关的概念的基础上，我们才能在适配上游刃有余。 物理像素在同一个设备上，它的物理像素个数是固定的，这是厂商在出厂时就设置好了的–即一个设备的分辨率是固定的。]]></content>
       <categories>
         <category>前端开发</category>
       </categories>

@@ -46,16 +46,14 @@
     <link href="http://reng99.cc/2018/08/14/adaptability-layout/"/>
     <id>http://reng99.cc/2018/08/14/adaptability-layout/</id>
     <published>2018-08-14T11:14:48.000Z</published>
-    <updated>2018-08-22T15:33:44.307Z</updated>
+    <updated>2018-08-23T13:16:51.136Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/css/adaptability-layout/banner.jpg" alt="frontend/css/adaptability-layout/banner"></p><blockquote><p>有待补充</p></blockquote><a id="more"></a><blockquote><p>有待补充</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/css/adaptability-layout/banner.jpg" alt="frontend/css/adaptability-layout/banner"></p><p>在进入整体之前，有诸多的概念需要了解一下，比如物理像素等等。在理解相关的概念的基础上，我们才能在适配上游刃有余。</p><a id="more"></a><h2 id="物理像素"><a href="#物理像素" class="headerlink" title="物理像素"></a>物理像素</h2><p>在同一个设备上，它的物理像素个数是固定的，这是厂商在出厂时就设置好了的–即一个设备的分辨率是固定的。</p>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/css/adaptability-layout/banner.jpg&quot; alt=&quot;frontend/css/adaptability-layout/banner&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;有待补充&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;在进入整体之前，有诸多的概念需要了解一下，比如物理像素等等。在理解相关的概念的基础上，我们才能在适配上游刃有余。&lt;/p&gt;
     
     </summary>
     
