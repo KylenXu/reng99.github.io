@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://reng99.cc/2018/08/19/static-website-deploy/</loc>
+    
+    <lastmod>2018-08-26T13:21:40.073Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://reng99.cc/2018/05/30/slow-in-past/</loc>
     
     <lastmod>2018-08-24T15:40:46.964Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://reng99.cc/2018/08/14/adaptability-layout/</loc>
     
     <lastmod>2018-08-23T13:16:51.136Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://reng99.cc/2018/08/19/static-website-deploy/</loc>
-    
-    <lastmod>2018-08-21T15:15:13.394Z</lastmod>
     
   </url>
   
