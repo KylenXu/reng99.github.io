@@ -4,6 +4,31 @@
 
     
   <url>
+    <loc>http://reng99.cc/2018/08/28/relative-github-deploy/</loc>
+    <lastmod>2018-08-28T05:35:50.390Z</lastmod>
+    <data>
+        <display>
+        <title>关联github发布</title>
+        <pubTime>2018-08-28T05:17:17.000Z</pubTime>
+        
+        <tag>部署</tag>
+         
+        <tag>git</tag>
+         
+         
+           
+             
+              <breadCrumb title="工具" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
+          
+             
+              <breadCrumb title="linux" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://reng99.cc/2018/08/27/dynamic-website-deploy/</loc>
     <lastmod>2018-08-27T15:02:42.643Z</lastmod>
     <data>

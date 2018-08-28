@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[关联github发布]]></title>
+    <url>%2F2018%2F08%2F28%2Frelative-github-deploy%2F</url>
+    <content type="text"><![CDATA[发布的工作我们之前有简单的说过–部署静态站点，但是只是本地托管资源很是麻烦，换了机器就不能够及时发布了。我们这里使用github来托管代码【其实，gitlab啊、码云啊都可以的啦】，利于发布。 更多]]></content>
+      <categories>
+        <category>工具</category>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>部署</tag>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[部署动态站点]]></title>
     <url>%2F2018%2F08%2F27%2Fdynamic-website-deploy%2F</url>
     <content type="text"><![CDATA[之前有讲过部署静态站点，一些官网，个人博客等等小型的，没有和数据进行交互的内容是比较适合静态部署。但是，大多数的时候是要和用户进行交互和数据的存储的，这就要开发动态的站点了。本文并不讲怎么开发一个动态的站点，而是说怎么部署一个动态的站点，这里使用node开发的一个项目为例。 有待补充]]></content>
