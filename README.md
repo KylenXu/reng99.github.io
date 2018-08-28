@@ -12,9 +12,10 @@
 
 |序号|分类|相关博文|博文编写日期|备注|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
+|034|工具|[关联github发布](http://reng99.cc/2018/08/28/relative-github-deploy/)|2018.08.28|1%|
 |033|linux|[部署动态站点](http://reng99.cc/2018/08/27/dynamic-website-deploy/)|2018.08.27|1%|
 |032|linux|[部署静态站点](http://reng99.cc/2018/08/19/static-website-deploy/)|2018.08.20|100%|
-|031|前端开发|[自适应布局](http://reng99.cc/2018/08/14/adaptability-layout/)|2018.08.14|暂停|
+|031|前端开发|[自适应布局](http://reng99.cc/2018/08/14/adaptability-layout/)|2018.08.14|暂停中|
 |030|前端开发|[关于BFC](http://reng99.cc/2018/08/12/about-BFC/)|2018.08.12|100%|
 |029|前端开发|[固定页脚的方法](http://reng99.cc/2018/08/02/fixed-footer-methods/)|2018.08.02|100%|
 |028|前端开发|[XSS攻击](http://reng99.cc/2018/07/24/xss-attack/)|2018.07.24|1%|
@@ -32,7 +33,7 @@
 |016|诗和远方|[从前慢](http://reng99.cc/2018/05/30/slow-in-past/)|2018.05.30|100%|
 |015|翻译|[链表](http://reng99.cc/2018/05/29/linked-list/)|2018.05.29|100%|
 |014|网络|[TCP的三次握手和四次挥手](http://reng99.cc/2018/05/01/tcp-three-handshake-four-bandge/)|2018.05.01|45%|
-|013|前端开发|[前端安全](http://reng99.cc/2018/04/13/frontend-security/)|2018.04.13|更新中...|
+|013|前端开发|[前端安全](http://reng99.cc/2018/04/13/frontend-security/)|2018.04.13|暂停中|
 |012|前端开发|[深入理解原型对象和原型链](http://reng99.cc/2018/04/05/prototype-object-chain-md/)|2018.04.05|100%|
 |011|网络|[小结http](http://reng99.cc/2018/03/11/summerize-http/)|2018.03.11|40%|
 |010|前端开发|[前端优化：雅虎35条原则](http://reng99.cc/2018/03/06/frontend-optimization/)|2018.03.06|100%|
@@ -43,7 +44,7 @@
 |005|技术交流|[第二届前端体验大会 -- 本固枝荣](http://reng99.cc/2017/12/24/2ndTencent-frontend-meeting/)|2017.12.24|100%|
 |004|工具|[git的学习汇总](http://reng99.cc/2017/12/13/git-learning/)|2017.12.13|100%|
 |003|诗和远方|[桂林阳朔旅游](http://reng99.cc/2017/12/04/tourist-guiLin-and-yangShuo/)|2017.12.04|100%|
-|002|前端开发|[vue2.0 踩坑记](http://reng99.cc/2017/11/27/vue-attention/)|2017.11.27|看情况更新|
+|002|前端开发|[vue2.0 踩坑记](http://reng99.cc/2017/11/27/vue-attention/)|2017.11.27|更新中|
 |001|诗和远方|[丹霞山旅游](http://reng99.cc/2017/11/26/tourist-danXia-mountain/)|2017.11.26|100%|
 
 ### 关于我
