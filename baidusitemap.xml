@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://reng99.cc/2018/08/28/relative-github-deploy/</loc>
-    <lastmod>2018-08-29T03:29:17.143Z</lastmod>
+    <lastmod>2018-08-29T06:16:46.018Z</lastmod>
     <data>
         <display>
         <title>关联github发布</title>
@@ -18,10 +18,27 @@
          
            
              
-              <breadCrumb title="工具" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
+              <breadCrumb title="linux" url="http://reng99.cc/categories/linux/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://reng99.cc/2018/08/29/regexp-summary/</loc>
+    <lastmod>2018-08-29T06:13:20.543Z</lastmod>
+    <data>
+        <display>
+        <title>正则表达式汇总</title>
+        <pubTime>2018-08-29T06:10:00.000Z</pubTime>
+        
+        <tag>正则</tag>
+         
+         
+           
              
-              <breadCrumb title="linux" url="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/linux/"/>
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
           
         </display>
     </data>

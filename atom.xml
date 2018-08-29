@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-08-29T03:29:17.143Z</updated>
+  <updated>2018-08-29T06:13:20.543Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>正则表达式汇总</title>
+    <link href="http://reng99.cc/2018/08/29/regexp-summary/"/>
+    <id>http://reng99.cc/2018/08/29/regexp-summary/</id>
+    <published>2018-08-29T06:10:00.000Z</published>
+    <updated>2018-08-29T06:13:20.543Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>有待补充</p></blockquote><a id="more"></a><blockquote><p>有待补充</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;有待补充&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="前端开发" scheme="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    
+    
+      <category term="正则" scheme="http://reng99.cc/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关联github发布</title>
     <link href="http://reng99.cc/2018/08/28/relative-github-deploy/"/>
     <id>http://reng99.cc/2018/08/28/relative-github-deploy/</id>
     <published>2018-08-28T05:17:17.000Z</published>
-    <updated>2018-08-29T03:29:17.143Z</updated>
+    <updated>2018-08-29T06:16:46.018Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/linux/relative-github-deploy/banner.jpg" alt="linux/relative-github-deploy/banner"></p><p>发布的工作我们之前有简单的说过–<a href="http://reng99.cc/2018/08/19/static-website-deploy/">部署静态站点</a>，但是只是本地托管资源很是麻烦，换了机器就不能够及时发布了。我们这里使用<code>github</code>来托管代码【其实，gitlab啊、码云啊都可以的啦】，利于发布。</p><a id="more"></a><p>本操作是在root权限上操作。</p><h2 id="git安装"><a href="#git安装" class="headerlink" title="git安装"></a>git安装</h2><p>我这里的服务器是<code>centos</code>，安装git一条命令行就搞定：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ yum install git</span><br></pre></td></tr></table></figure><p>验证git是否安装成功，可以通过<code>git --version</code>查看。</p><h2 id="关联github"><a href="#关联github" class="headerlink" title="关联github"></a>关联github</h2><p>因为本地git仓库和<code>github</code>仓库之间的传输是通过<strong>SSH</strong>加密传输的，<code>GITHUB</code>需要识别是否是你推送的，github只要知道你的公钥（具体为什么不在讨论范围内），就可以确认只有你自己才能推送，所以需要配置<code>ssh key</code>。</p><h3 id="生成SSH密钥对"><a href="#生成SSH密钥对" class="headerlink" title="生成SSH密钥对"></a>生成SSH密钥对</h3><p>生成如下：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ssh-keygen -t rsa -C <span class="string">"123@qq.com"</span> <span class="comment"># 123@qq.com是你注册github的邮箱</span></span><br></pre></td></tr></table></figure><p>输入上面的命令行之后一路回车就可以了，然后出现下面的图，说明你已经生成好了：</p><p><img src="http://omu538iq8.bkt.clouddn.com/linux/relative-github-deploy/generate-sshkey.png" alt="linux/relative-github-deploy/generate-sshkey"></p><h3 id="添加公钥到github上"><a href="#添加公钥到github上" class="headerlink" title="添加公钥到github上"></a>添加公钥到github上</h3><p>先进入公钥的文件将公钥的内容复制下来备用：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> ~/.ssh</span><br><span class="line"></span><br><span class="line">$ ls</span><br><span class="line"><span class="comment"># authorized_keys  id_rsa  id_rsa.pub</span></span><br><span class="line"></span><br><span class="line">$ cat id_rsa.pub</span><br><span class="line"><span class="comment"># 将其内容复制</span></span><br></pre></td></tr></table></figure><p>登陆你的github，进入<strong><a href="https://github.com/settings/keys" target="_blank" rel="noopener">https://github.com/settings/keys</a></strong>操作：</p><p><img src="http://omu538iq8.bkt.clouddn.com/linux/relative-github-deploy/add-github-pubkey01.png" alt="linux/relative-github-deploy/add-github-pubkey01"></p><p><img src="http://omu538iq8.bkt.clouddn.com/linux/relative-github-deploy/add-github-pubkey02.png" alt="linux/relative-github-deploy/add-github-pubkey02"></p><p>然后验证是否关联成功:</p><p><img src="http://omu538iq8.bkt.clouddn.com/linux/relative-github-deploy/verify-sshkey.png" alt="linux/relative-github-deploy/verify-sshkey"></p><h3 id="设置username和email"><a href="#设置username和email" class="headerlink" title="设置username和email"></a>设置username和email</h3><p>设置username和email，因为github每次的commit都会记录他们：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global user.name  <span class="string">"name"</span> <span class="comment"># 你的GitHub登陆名</span></span><br><span class="line">$ git config --global user.email <span class="string">"123@qq.com"</span> <span class="comment"># 你的GitHub注册邮箱</span></span><br></pre></td></tr></table></figure><h3 id="删除SSH密钥对"><a href="#删除SSH密钥对" class="headerlink" title="删除SSH密钥对"></a>删除SSH密钥对</h3><p>既然讲到了安装，顺便说下如何删除吧：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 进入目录（安装ssh才会有）</span></span><br><span class="line">$ <span class="built_in">cd</span> ~/.ssh</span><br><span class="line"></span><br><span class="line"><span class="comment"># 罗列如下</span></span><br><span class="line">$ ls</span><br><span class="line">authorized_keys  id_rsa  id_rsa.pub</span><br><span class="line"></span><br><span class="line"><span class="comment"># 删除存在的id_rsa、id_rsa.pub即可</span></span><br><span class="line">$ rm -rf id_rsa</span><br><span class="line">$ rm -rf id_rsa.pub</span><br></pre></td></tr></table></figure><h2 id="git更新代码"><a href="#git更新代码" class="headerlink" title="git更新代码"></a>git更新代码</h2><p>在服务器关联好github后，我们来个简单的demo来实现下更新代码：</p><h3 id="github上创建仓库"><a href="#github上创建仓库" class="headerlink" title="github上创建仓库"></a>github上创建仓库</h3><p>我在github上创建创建了一个名为test的仓库【后期会删除本测试仓库】，里面只有一个<code>index.html</code>文件，如下：</p><p><img src="http://omu538iq8.bkt.clouddn.com/linux/relative-github-deploy/test-repository.png" alt="linux/relative-github-deploy/test-repository"></p><h3 id="服务器拉取github代码"><a href="#服务器拉取github代码" class="headerlink" title="服务器拉取github代码"></a>服务器拉取github代码</h3><p>进入linux服务器的站点根目录，首次运行的使用需要将代码<code>clone</code>到根目录：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 进入站点根目录</span></span><br><span class="line">$ <span class="built_in">cd</span> /usr/share/nginx/html</span><br><span class="line"></span><br><span class="line"><span class="comment"># 将仓库clone下来</span></span><br><span class="line">$ git <span class="built_in">clone</span> https://github.com/reng99/test.git</span><br><span class="line"></span><br><span class="line"><span class="comment"># 此时根目录下就有test文件夹了</span></span><br><span class="line">$ ls</span><br><span class="line"><span class="built_in">test</span> ...</span><br></pre></td></tr></table></figure><p>访问测试的项目如下：</p><p><img src="http://omu538iq8.bkt.clouddn.com/linux/relative-github-deploy/verify-test-project.png" alt="linux/relative-github-deploy/verify-test-project"></p><p>至此，服务器关联github已经完成。以后项目有更新，进行相关的git操作即可，感兴趣的话可以了解我之前写的<a href="http://reng99.cc/2017/12/13/git-learning/">git的学习汇总</a>。</p>]]></content>
     
@@ -32,9 +56,7 @@
     
     </summary>
     
-      <category term="工具" scheme="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="linux" scheme="http://reng99.cc/categories/%E5%B7%A5%E5%85%B7/linux/"/>
+      <category term="linux" scheme="http://reng99.cc/categories/linux/"/>
     
     
       <category term="部署" scheme="http://reng99.cc/tags/%E9%83%A8%E7%BD%B2/"/>
@@ -464,29 +486,6 @@
     
     
       <category term="诗" scheme="http://reng99.cc/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>链表</title>
-    <link href="http://reng99.cc/2018/05/29/linked-list/"/>
-    <id>http://reng99.cc/2018/05/29/linked-list/</id>
-    <published>2018-05-29T10:42:37.000Z</published>
-    <updated>2018-06-17T09:44:08.982Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/translation/linked_list/banner.jpg" alt="translation/linked_list/banner"></p><p>在计算机科学领域，链表就是一组数据的线性集合，这种集合的顺序不是根据数据被存放在内存中的顺序决定的。而是根据每个元素的指向下一个的指针决定。</p><a id="more"></a><p>链表是由类队列的一组节点组合而成的数据。每个节点包括了数据和一个指向下一个节点的指针。这种结构在对数据的添加和移除是非常方便的，不管数据所在的位置。</p><p><img src="http://omu538iq8.bkt.clouddn.com/translation/linked_list/data.png" alt="translation/linked_list/data"></p><h2 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h2><ul><li><p>相比数组，链表因为使用指针来存储会更耗内存</p></li><li><p>链表的节点必须是从头开始按照顺序读取，因为它本质上就是顺序访问</p></li><li><p>节点不连续存储，大大增加了访问列表中元素的所需的时间端，尤其在cpu的缓存中</p></li><li><p>当反向便利链表的时候会比较困难。比如，单链表向后导航比较麻烦，而双链表比较容易阅读，内存消耗在为后向指针分配空间</p></li></ul><h2 id="基本概念和术语"><a href="#基本概念和术语" class="headerlink" title="基本概念和术语"></a>基本概念和术语</h2><p>链表中的每条记录通常被称为<code>元素或节点</code>（一般叫节点）。</p><p>每个节点的字段包含下一个节点的的地址，这个字段通常被叫做<code>下个链接或者下个指向</code>（一般叫指针）。剩下的字段被称为<code>数据，信息，值，负载或者载荷</code>（一般称为值）。</p><p>列表的头是它的第一个节点，列表的尾部可以指除头节点后其余部分，或者指列表最后的一个节点。</p><h3 id="单向链表"><a href="#单向链表" class="headerlink" title="单向链表"></a>单向链表</h3><p>单链表包含数据字段和指向下个节点的尾指针字段。可以在单链表上执行的操作包括插入，删除和遍历。</p><p><img src="http://omu538iq8.bkt.clouddn.com/translation/linked_list/data.png" alt="translation/linked_list/data"></p><p>以下的代码演示了如何将具有数据<code>值</code>的新节点添加到单链表的末尾：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">node addNode(node head , int value)&#123;</span><br><span class="line">node temp,p; // 声明两个节点temp和p</span><br><span class="line">temp = createNode(); // 假设方法createNode创建一个data=0和指向空的指针节点</span><br><span class="line">temp-&gt;data = value; // 添加元素的值到创建的节点data字段</span><br><span class="line"><span class="keyword">if</span>(head == NULL)&#123;</span><br><span class="line">head = temp; // 当链表尾空时</span><br><span class="line">&#125;<span class="keyword">else</span>&#123;</span><br><span class="line">p = head; // head节点赋值给p节点</span><br><span class="line"><span class="keyword">while</span>(p-&gt;next != NULL)&#123;</span><br><span class="line">p = p-&gt;next; // 遍历链表到最后一个节点。最后一个节点的指向为空</span><br><span class="line">&#125;</span><br><span class="line">p-&gt;next = temp;</span><br><span class="line">&#125;</span><br><span class="line"><span class="built_in">return</span> head;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h3 id="双向链表"><a href="#双向链表" class="headerlink" title="双向链表"></a>双向链表</h3><p>在双向链表中，节点中除了指向下一个节点的指针，还包含指向序列中上一个节点的指针字段。</p><p><img src="http://omu538iq8.bkt.clouddn.com/translation/linked_list/double_linkedl_list.png" alt="translation/linked_list/double_linkedl_list"></p><p>许多现代操作系统使用双向链接列表来维护。</p><h2 id="权衡"><a href="#权衡" class="headerlink" title="权衡"></a>权衡</h2><p>和计算机编程和设计中的大多数选择一样，没有一种方法是可以适用多种情况的。链表数据结构可能在一种情况下运行良好，在另外一个情况下就有问题了。下面列表是包含链表的数据结构的权衡。</p><p><img src="http://omu538iq8.bkt.clouddn.com/translation/linked_list/list_compare.png" alt="translation/linked_list/list_compare"></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p><a href="https://en.wikipedia.org/wiki/Linked_list" target="_blank" rel="noopener">维基百科link_list</a></p><h2 id="后话"><a href="#后话" class="headerlink" title="后话"></a>后话</h2><p>自己在维基百科上查找到的介绍，然后翻译了一丢丢，链接请见上面的参考。翻译到此为止，如果看者感兴趣可以自行查看啦 @～@</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/translation/linked_list/banner.jpg&quot; alt=&quot;translation/linked_list/banner&quot;&gt;&lt;/p&gt;
-&lt;p&gt;在计算机科学领域，链表就是一组数据的线性集合，这种集合的顺序不是根据数据被存放在内存中的顺序决定的。而是根据每个元素的指向下一个的指针决定。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="翻译" scheme="http://reng99.cc/categories/%E7%BF%BB%E8%AF%91/"/>
-    
-    
-      <category term="链表" scheme="http://reng99.cc/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   
