@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-08-29T06:13:20.543Z</updated>
+  <updated>2018-08-29T06:28:42.997Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,13 +21,14 @@
     <link href="http://reng99.cc/2018/08/29/regexp-summary/"/>
     <id>http://reng99.cc/2018/08/29/regexp-summary/</id>
     <published>2018-08-29T06:10:00.000Z</published>
-    <updated>2018-08-29T06:13:20.543Z</updated>
+    <updated>2018-08-29T06:28:42.997Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>有待补充</p></blockquote><a id="more"></a><blockquote><p>有待补充</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/regexp-summary/banner.jpg" alt="frontend/regexp-summary/banner"></p><blockquote><p>有待补充</p></blockquote><a id="more"></a><blockquote><p>有待补充</p></blockquote>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/frontend/regexp-summary/banner.jpg&quot; alt=&quot;frontend/regexp-summary/banner&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
 &lt;p&gt;有待补充&lt;/p&gt;
 &lt;/blockquote&gt;
     
