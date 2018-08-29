@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[关联github发布]]></title>
     <url>%2F2018%2F08%2F28%2Frelative-github-deploy%2F</url>
-    <content type="text"><![CDATA[发布的工作我们之前有简单的说过–部署静态站点，但是只是本地托管资源很是麻烦，换了机器就不能够及时发布了。我们这里使用github来托管代码【其实，gitlab啊、码云啊都可以的啦】，利于发布。 更多]]></content>
+    <content type="text"><![CDATA[发布的工作我们之前有简单的说过–部署静态站点，但是只是本地托管资源很是麻烦，换了机器就不能够及时发布了。我们这里使用github来托管代码【其实，gitlab啊、码云啊都可以的啦】，利于发布。 本操作是在root权限上操作。 git安装我这里的服务器是centos，安装git一条命令行就搞定： 1$ yum install git 验证git是否安装成功，可以通过git --version查看。 关联github因为本地git仓库和github仓库之间的传输是通过SSH加密传输的，GITHUB需要识别是否是你推送的，github只要知道你的公钥（具体为什么不在讨论范围内），就可以确认只有你自己才能推送，所以需要配置ssh key。 生成SSH密钥对生成如下： 1$ ssh-keygen -t rsa -C "123@qq.com" # 123@qq.com是你注册github的邮箱 输入上面的命令行之后一路回车就可以了，然后出现下面的图，说明你已经生成好了： 添加公钥到github上先进入公钥的文件将公钥的内容复制下来备用： 1234567$ cd ~/.ssh$ ls# authorized_keys id_rsa id_rsa.pub$ cat id_rsa.pub# 将其内容复制 登陆你的github，进入https://github.com/settings/keys操作： 然后验证是否关联成功: 设置username和email设置username和email，因为github每次的commit都会记录他们： 12$ git config --global user.name "name" # 你的GitHub登陆名$ git config --global user.email "123@qq.com" # 你的GitHub注册邮箱 删除SSH密钥对既然讲到了安装，顺便说下如何删除吧： 12345678910# 进入目录（安装ssh才会有）$ cd ~/.ssh# 罗列如下$ lsauthorized_keys id_rsa id_rsa.pub# 删除存在的id_rsa、id_rsa.pub即可$ rm -rf id_rsa$ rm -rf id_rsa.pub git更新代码在服务器关联好github后，我们来个简单的demo来实现下更新代码： github上创建仓库我在github上创建创建了一个名为test的仓库【后期会删除本测试仓库】，里面只有一个index.html文件，如下： 服务器拉取github代码进入linux服务器的站点根目录，首次运行的使用需要将代码clone到根目录： 123456789# 进入站点根目录$ cd /usr/share/nginx/html# 将仓库clone下来$ git clone https://github.com/reng99/test.git# 此时根目录下就有test文件夹了$ lstest ... 访问测试的项目如下： 至此，服务器关联github已经完成。以后项目有更新，进行相关的git操作即可，感兴趣的话可以了解我之前写的git的学习汇总。]]></content>
       <categories>
         <category>工具</category>
         <category>linux</category>

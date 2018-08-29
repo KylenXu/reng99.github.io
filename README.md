@@ -12,7 +12,7 @@
 
 |序号|分类|相关博文|博文编写日期|备注|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|034|工具|[关联github发布](http://reng99.cc/2018/08/28/relative-github-deploy/)|2018.08.28|1%|
+|034|工具|[关联github发布](http://reng99.cc/2018/08/28/relative-github-deploy/)|2018.08.28|100%|
 |033|linux|[部署动态站点](http://reng99.cc/2018/08/27/dynamic-website-deploy/)|2018.08.27|1%|
 |032|linux|[部署静态站点](http://reng99.cc/2018/08/19/static-website-deploy/)|2018.08.20|100%|
 |031|前端开发|[自适应布局](http://reng99.cc/2018/08/14/adaptability-layout/)|2018.08.14|暂停中|
