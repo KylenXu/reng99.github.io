@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[正则表达式汇总]]></title>
     <url>%2F2018%2F08%2F29%2Fregexp-summary%2F</url>
-    <content type="text"><![CDATA[正则表达式是对字符串操作的一种逻辑方式，就是用事先定义好的一些特定字符、及这些特定字符的组合，组成一个规则字符串，这个规则字符串用来表达对字符串的一种过滤逻辑。 有待补充]]></content>
+    <content type="text"><![CDATA[正则表达式是对字符串操作的一种逻辑方式，就是用事先定义好的一些特定字符、及这些特定字符的组合，组成一个规则字符串，这个规则字符串用来表达对字符串的一种过滤逻辑。 元字符运算符优先级匹配规则 有待补充]]></content>
       <categories>
         <category>前端开发</category>
       </categories>

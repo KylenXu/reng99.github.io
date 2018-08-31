@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-08-30T02:25:12.781Z</updated>
+  <updated>2018-08-31T14:43:39.124Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://reng99.cc/2018/08/29/regexp-summary/"/>
     <id>http://reng99.cc/2018/08/29/regexp-summary/</id>
     <published>2018-08-29T06:10:00.000Z</published>
-    <updated>2018-08-30T02:25:12.781Z</updated>
+    <updated>2018-08-31T14:43:39.124Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/regexp-summary/banner.jpg" alt="frontend/regexp-summary/banner"></p><p>正则表达式是对<strong>字符串</strong>操作的一种逻辑方式，就是用事先定义好的一些特定字符、及这些特定字符的组合，组成一个<code>规则字符串</code>，这个<code>规则字符串</code>用来表达对字符串的一种过滤逻辑。</p><a id="more"></a><blockquote><p>有待补充</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/frontend/regexp-summary/banner.jpg" alt="frontend/regexp-summary/banner"></p><p>正则表达式是对<strong>字符串</strong>操作的一种逻辑方式，就是用事先定义好的一些特定字符、及这些特定字符的组合，组成一个<code>规则字符串</code>，这个<code>规则字符串</code>用来表达对字符串的一种过滤逻辑。</p><a id="more"></a><h2 id="元字符"><a href="#元字符" class="headerlink" title="元字符"></a>元字符</h2><h2 id="运算符优先级"><a href="#运算符优先级" class="headerlink" title="运算符优先级"></a>运算符优先级</h2><h2 id="匹配规则"><a href="#匹配规则" class="headerlink" title="匹配规则"></a>匹配规则</h2><blockquote><p>有待补充</p></blockquote>]]></content>
     
     <summary type="html">
     
