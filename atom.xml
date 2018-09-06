@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://reng99.cc/"/>
-  <updated>2018-09-03T15:34:37.348Z</updated>
+  <updated>2018-09-06T06:02:26.773Z</updated>
   <id>http://reng99.cc/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Take Care of Your Emotion to Parent</title>
+    <link href="http://reng99.cc/2018/09/06/emotions-to-your-parent/"/>
+    <id>http://reng99.cc/2018/09/06/emotions-to-your-parent/</id>
+    <published>2018-09-06T05:56:57.000Z</published>
+    <updated>2018-09-06T06:02:26.773Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>something relatived will be added.</p></blockquote><a id="more"></a><blockquote><p>please wait for more information.</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;something relatived will be added.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="诗和远方" scheme="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="杂谈" scheme="http://reng99.cc/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>正则表达式汇总</title>
@@ -456,35 +480,6 @@
     
     
       <category term="d3js" scheme="http://reng99.cc/tags/d3js/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>从前慢</title>
-    <link href="http://reng99.cc/2018/05/30/slow-in-past/"/>
-    <id>http://reng99.cc/2018/05/30/slow-in-past/</id>
-    <published>2018-05-30T05:32:26.000Z</published>
-    <updated>2018-08-24T15:40:46.964Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://omu538iq8.bkt.clouddn.com/life/poem/slow-in-past/cover.jpg" alt="life/poem/slow-in-past/cover"></p><blockquote><p>It took time to fall in love in the past</p><p>So slow, one needs one’s lifetime</p><p>seeking for Mr/Ms Right</p><p>So slow, you need your whole life</p><p>to love people that suit</p></blockquote><a id="more"></a><p>The Poem below :</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">Time was slower <span class="keyword">in</span> the past,</span><br><span class="line">Carriage, horse, mail needs time a little bit.</span><br><span class="line">Even one greeting needs days to be passed</span><br><span class="line"></span><br><span class="line">The moonlight was slower <span class="keyword">in</span> the past</span><br><span class="line">With leisure（闲暇）, being indolent（懒洋洋）</span><br><span class="line">The whole dawn needs a cup of tea to interpret</span><br><span class="line">With little stars twinkling,</span><br><span class="line">moments <span class="keyword">in</span> your dreams move fast</span><br><span class="line"></span><br><span class="line">The pace was slower <span class="keyword">in</span> the past</span><br><span class="line">From one village to another near it</span><br><span class="line">One needs a whole day on foot</span><br><span class="line"></span><br><span class="line">The days were slower</span><br><span class="line">but warmer <span class="keyword">in</span> the past</span><br><span class="line">Through a touch of light mist（烟火）</span><br><span class="line">Year after year, time is out.</span><br><span class="line"></span><br><span class="line">The handerchiefs were finer <span class="keyword">in</span> the past</span><br><span class="line">Young ladies with soft eyebrows</span><br><span class="line"><span class="keyword">in</span> their perfect fit</span><br><span class="line">stitch（针线） by stitch,</span><br><span class="line">more delicate</span><br><span class="line"></span><br><span class="line">It took time to fall <span class="keyword">in</span> love <span class="keyword">in</span> the past</span><br><span class="line">So slow, one needs one<span class="string">'s lifetime</span></span><br><span class="line"><span class="string">seeking for Mr/Ms Right</span></span><br><span class="line"><span class="string">So slow, you need your whole life</span></span><br><span class="line"><span class="string">to love people that suit</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">Now with everything on the go,</span></span><br><span class="line"><span class="string">one gets up earlier a little bit</span></span><br><span class="line"><span class="string">No time to say good morning,</span></span><br><span class="line"><span class="string">even a hug you cannot wait</span></span><br><span class="line"><span class="string"></span></span><br><span class="line"><span class="string">In fact, in the city center,</span></span><br><span class="line"><span class="string">even 5 minutes'</span> on foot</span><br><span class="line">Or a bit of leisure time</span><br><span class="line">after your breakfast</span><br><span class="line">Everything is different</span><br><span class="line"></span><br><span class="line">Now is faster</span><br><span class="line">everything is <span class="keyword">in</span> the replacement（替代品）</span><br><span class="line">So fast that life is easily to be parted</span><br><span class="line">even you cannot notice it</span><br><span class="line"></span><br><span class="line">In fact, cluttered（杂乱的） life can be combined </span><br><span class="line">by one after one highlight</span><br><span class="line">Like the classical furnishings </span><br><span class="line">mixed with modern decorations</span><br><span class="line"><span class="keyword">in</span> a sample apartment</span><br><span class="line">Less dull, less stale, much more exquisite（细腻）</span><br><span class="line"></span><br><span class="line">Now time flies faster,</span><br><span class="line">just keep the pace after complaint</span><br><span class="line">Strive（争取） <span class="keyword">for</span> your dream </span><br><span class="line">with your daring heart</span><br><span class="line">Embrace your leisure time </span><br><span class="line">until you are old but not <span class="keyword">in</span> the past</span><br><span class="line">Why not plan <span class="keyword">for</span> your future earlier </span><br><span class="line">to some extent?</span><br><span class="line"></span><br><span class="line">Now is faster, dating with your love, </span><br><span class="line">after dinner no time left</span><br><span class="line">In fact, time is innocent, </span><br><span class="line">but it is all your mind’s fault</span><br><span class="line"></span><br><span class="line">With a peaceful mind, </span><br><span class="line">walking around the Bell Tower </span><br><span class="line"><span class="keyword">in</span> the old street</span><br><span class="line">Choosing a book <span class="keyword">in</span> the county library, </span><br><span class="line">wandering <span class="keyword">in</span> the old avenue on foot</span><br><span class="line">You forget time has vanished</span><br><span class="line"></span><br><span class="line">Now is faster, </span><br><span class="line">so fast that we always recall </span><br><span class="line">beauty <span class="keyword">in</span> the past</span><br><span class="line">Passionately（充满激情地） think of the world </span><br><span class="line">once <span class="keyword">in</span> its purest</span><br><span class="line"></span><br><span class="line">In fact, <span class="keyword">for</span> your current anguish（痛苦）, beat it</span><br><span class="line">Go to the North Square, </span><br><span class="line">and close your eyes <span class="keyword">in</span> a moment</span><br><span class="line">overwhelming（淹没） yourself </span><br><span class="line">with those golden days <span class="keyword">in</span> the past</span><br><span class="line">Enjoy yourself with nothing <span class="keyword">in</span> your heart</span><br><span class="line"></span><br><span class="line">It is good to be an ordinary（平常的） person at hard thought</span><br><span class="line">When you said slow pace is fine, </span><br><span class="line">I back you a lot</span><br><span class="line"></span><br><span class="line">When he told fast pace adds more spice to life , </span><br><span class="line">I agree without second thought</span><br><span class="line">Like mansion（公寓） with its luxury（奢华）, </span><br><span class="line">tiny apartment with its refinement</span><br><span class="line">Good or bad, tell me not</span><br><span class="line"></span><br><span class="line">No matter how slow the past time was, </span><br><span class="line">how fast it is <span class="keyword">in</span> the current</span><br><span class="line"></span><br><span class="line">I know, the earth under your feet,</span><br><span class="line">the love around your heart</span><br><span class="line">Treasure them with your best,</span><br><span class="line">no matter <span class="keyword">in</span> the past </span><br><span class="line">or <span class="keyword">in</span> the right moment.</span><br><span class="line"></span><br><span class="line">-- 木心</span><br></pre></td></tr></table></figure><blockquote><p>It is good to be an ordinary（平常的） person at hard thought</p><p>When you said slow pace is fine</p><p>I back you a lot</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://omu538iq8.bkt.clouddn.com/life/poem/slow-in-past/cover.jpg&quot; alt=&quot;life/poem/slow-in-past/cover&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;It took time to fall in love in the past&lt;/p&gt;
-&lt;p&gt;So slow, one needs one’s lifetime&lt;/p&gt;
-&lt;p&gt;seeking for Mr/Ms Right&lt;/p&gt;
-&lt;p&gt;So slow, you need your whole life&lt;/p&gt;
-&lt;p&gt;to love people that suit&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="诗和远方" scheme="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
-    
-    
-      <category term="诗" scheme="http://reng99.cc/tags/%E8%AF%97/"/>
     
   </entry>
   
