@@ -12,6 +12,8 @@
 
 |序号|分类|相关博文|博文编写日期|备注|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
+|037|前端开发|[谈谈前端实现五子棋游戏](http://reng99.cc/2018/09/06/talk-about-gobang-game/)|2018.09.06|100%|
+|036|诗和远方|[Take Care of Your Emotion to Parent](http://reng99.cc/2018/09/06/emotions-to-your-parent/)|2018.09.06|5%|
 |035|前端开发|[正则表达式汇总](http://reng99.cc/2018/08/29/regexp-summary/)|2018.08.29|60%|
 |034|linux|[关联github发布项目](http://reng99.cc/2018/08/28/relative-github-deploy/)|2018.08.28|100%|
 |033|linux|[部署动态站点](http://reng99.cc/2018/08/27/dynamic-website-deploy/)|2018.08.27|1%|
