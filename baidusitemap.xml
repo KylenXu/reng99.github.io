@@ -3,6 +3,26 @@
 
 
     
+  <url>
+    <loc>http://reng99.cc/2018/08/29/regexp-summary/</loc>
+    <lastmod>2018-09-10T15:45:39.893Z</lastmod>
+    <data>
+        <display>
+        <title>正则表达式汇总</title>
+        <pubTime>2018-08-29T06:10:00.000Z</pubTime>
+        
+        <tag>正则</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://reng99.cc/2018/09/06/talk-about-gobang-game/</loc>
@@ -38,26 +58,6 @@
            
              
               <breadCrumb title="诗和远方" url="http://reng99.cc/categories/%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://reng99.cc/2018/08/29/regexp-summary/</loc>
-    <lastmod>2018-09-03T15:34:37.348Z</lastmod>
-    <data>
-        <display>
-        <title>正则表达式汇总</title>
-        <pubTime>2018-08-29T06:10:00.000Z</pubTime>
-        
-        <tag>正则</tag>
-         
-         
-           
-             
-              <breadCrumb title="前端开发" url="http://reng99.cc/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
           
         </display>
     </data>
