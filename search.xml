@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[谈谈rem单位]]></title>
     <url>%2F2018%2F09%2F16%2Ftalk-about-rem%2F</url>
-    <content type="text"><![CDATA[简单谈谈rem 谈谈自己对 rem的理解，有待补充]]></content>
+    <content type="text"><![CDATA[前端开发中，移动端的开发可以说是举足轻重了，可以又面临着不同设备尺寸和分辨率的尴尬点。今天[2018-09-16]台风山竹登陆广东，来势汹汹，外出是不可能的了，那就宅着写写这篇小文章吧… 说到移动端的响应布局，你也许会想到： 使用CSS3媒体查询的方法 12345678body &#123; background: yellow;&#125;@media screen and (max-width: 400px) &#123; body &#123; background: red; &#125;&#125; 嗯，这种的样式的工作量超级大，因为要对图片和文字等资源针对不同的尺寸进行设置。一种凉凉的感觉从心底飘过～～～ 直接使用百分比 这种方法比较适合移动端上，页面图片铺满宽度屏幕的运营推广活动的情况。因为在设计的时候会有一个750px的设计规范，能够很好的适配到不到手机啦。然后工作就是切图了… 123456789101112131415#percent&#123; width: 100%; display: flex; flex-direction: row; justify-content: center; align-items: center;&#125;#percent .item&#123; flex: 1;&#125;#percent img&#123; display: block; width: 100%; height: auto;&#125; 这种切图比较费力，如果认真看上面的gif图的话会发现是三张同等宽高的图片，在chrome上的调试器上看是有白条的，不过不影响。因为在真机上是不存在的。如果不是切图宽度等分的情况下，那就不建议这种百分比的适配方法了。 固定宽度 这种方法比较适合PC端开发，在移动端是必须不能才去的。因为移动端的宽度足够，能够带来足够好的体验，并且最重要的一点是其像素比是1啊。在缩放的时候不会带来内容变形的体验。如果到移动端上面，那就呵呵了～ 12345678#container&#123; width: 680px; background: yellow; margin: 0 auto;&#125;h1&#123; text-align: center;&#125; 使用viewport 移动设备上的viewport是设备屏幕上用来显示网页的那部分区域，再具体一点就是浏览器上用来显示网页的那部分区域，但viewport又不局限于浏览器可视区域的大小，它可能比浏览器的可视区域大，也可能比浏览器的可视区域小。 这得要在网页的head标枪上面设置meta，比如： 1&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"&gt; 嗯，这个知识点还是一丢丢的，详细的内容参考菜鸟教程：响应式 Web 设计 - Viewport。 本博文的重点不是这个～ 是的，我们可以使用REM来进行适配啊：可以说是目前最强的移动端适配方案… rem是什么 下午补充…]]></content>
       <categories>
         <category>前端开发</category>
       </categories>
